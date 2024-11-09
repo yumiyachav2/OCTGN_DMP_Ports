@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="b2ae51b5-7212-4561-b1d2-d3c0a76310da">Trombo, Fractured Doll</card>
+    <card qty="4" id="a6bd38a4-734f-4242-bbd2-93942396d1cb">Uncanny Turnip</card>
+    <card qty="2" id="fa987e39-2955-4074-bcf2-b7888ae27319">Macho Melon</card>
+    <card qty="4" id="61854910-584d-4d41-a125-61efe3c67a53">Sapian Tark, Flame Dervish</card>
+    <card qty="4" id="34ab516c-6a28-4743-a572-6c1140b1792d">Flame Trooper Goliac</card>
+    <card qty="4" id="ee2ae2d8-1ad3-4864-86ba-ce3c2fdb8ad5">Revival Soldier</card>
+    <card qty="3" id="e69f512c-86a5-4afa-b76f-77e70ed103b6">Jagila, the Hidden Pillager</card>
+    <card qty="3" id="774ee0bb-0dcc-4213-8217-534cfab303fe">Angila, Electro-Mask</card>
+    <card qty="2" id="a45f2208-2b9a-462e-86a2-4e1d004ae3a1">Miraculous Rebirth</card>
+    <card qty="3" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="3" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="2" id="a5ec6840-0e22-4eb9-9866-3cb5fbf23e3f">Hogan Blaster</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

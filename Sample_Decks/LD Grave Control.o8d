@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="be73e82d-6da3-41b2-9218-29c06ce8f8c9">Bloody Shadow, Mystic Light Death Knight</card>
+    <card qty="3" id="db6f40de-0d23-4a20-9a22-19c9aaa4cb04">Chief De Baula, Machine King of Mystic Light</card>
+    <card qty="2" id="6f6a47c9-5d86-4344-b92d-4a481e598fbb">Pikarie, Radiance Elemental</card>
+    <card qty="1" id="a583f10c-5cd0-437d-a2e5-46450b335650">Slowly Chain</card>
+    <card qty="4" id="5a6fd086-162d-436f-9352-d4fde426e93a">Amaterasu Seraphina, Light Weapon</card>
+    <card qty="2" id="1a7e7cc9-60fb-46e8-8f19-f792d792c673">Like a Rolling Storm</card>
+    <card qty="4" id="8f2de803-dca7-4426-b022-922f34d683ff">Honenbe, Skeletal Guardian</card>
+    <card qty="2" id="7b95be5c-d378-4af4-98ce-dc18d2e3d172">Morbid Medicine</card>
+    <card qty="3" id="f9810ff9-ae5e-41c5-a88d-4bf6324e1c7e">Cranium Clamp</card>
+    <card qty="3" id="45b480ca-cb25-4737-bc96-ad0b1a069419">Infernal Smash</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="b5327cec-d0ee-4243-9313-db4309b37e38">Romanov the 1st, Lord of the Demonic Eye</card>
+    <card qty="2" id="fab4495f-0c22-4fb1-af79-4d177925f4b1">Steiner, the Resurrecting Reaper</card>
+    <card qty="2" id="8002970e-b70a-432a-9c50-503f4120b18b">Fernando the 7th, Emperor of Mystic Light</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="adc35608-f038-4075-8ef7-4d750f622b20">Ballom Quake, Lord of Demons</card>
+    <card qty="3" id="c0317433-4a6d-44e6-a09b-0bd1fd293166">Hexpain, Invincible Reaper</card>
+    <card qty="3" id="7a0d39ce-1dd2-470e-97dd-85aa9bb7cb1c">Sanctuary of Earth and Demon</card>
+    <card qty="3" id="e6ba07cc-4127-4537-b66d-64b614e14efd">Triple Mouth, Decaying Savage</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="2" id="f1def5f9-df2b-4c1b-aaf2-b172797d6f31">Seventh Tower</card>
+    <card qty="4" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="4" id="b6a3f511-f271-49a4-afad-9da739c8dd72">Bangren, Ancient Arhat</card>
+    <card qty="3" id="b2b79176-cb16-477e-872c-40493a56ea3c">Bilgias, Hardened Demon of Hellfire</card>
+    <card qty="3" id="d8148927-73b9-4f40-a90e-6369196c8579">Olzekia, General of Decapitation</card>
+    <card qty="4" id="3967c997-a0b2-47f9-b37b-ed0ada6bc2f6">Soul Stealing Vacuum</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

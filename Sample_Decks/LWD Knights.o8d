@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="c4235746-ac96-404e-b4c0-d50cc2d50fa7">Drum Treble, of the Mystic Light</card>
+    <card qty="4" id="be73e82d-6da3-41b2-9218-29c06ce8f8c9">Bloody Shadow, Mystic Light Death Knight</card>
+    <card qty="2" id="adb8e278-0ce8-4641-8458-40795feb6145">Magic Shot - Soul Catcher</card>
+    <card qty="4" id="e0bdb051-fe13-4066-a66f-43b13425e3f9">Magic Shot - Glory Gate</card>
+    <card qty="2" id="3d4863c7-9586-4e9a-af76-9ce1b5b332e2">Miraculous Snare</card>
+    <card qty="4" id="9e77457b-cc8a-4eea-8944-ce66f9f11bcd">King Maximillian, the Ice Fang</card>
+    <card qty="3" id="db6f40de-0d23-4a20-9a22-19c9aaa4cb04">Chief De Baula, Machine King of Mystic Light</card>
+    <card qty="4" id="0f23cd60-076d-43de-ba86-76f5c2c5657e">Magic Shot - Dual Zanzibar</card>
+    <card qty="3" id="faf40bce-a1d7-41ef-8c13-5836ae586e96">Magic Shot - Bullet Vice</card>
+    <card qty="3" id="94eb5fc0-a451-4d7d-9190-9d627076cae5">Gregorias, Mystic Light Death Saint</card>
+    <card qty="3" id="54ce7b70-11f0-4de4-bc45-1e4c095d6c1f">Magic Shot - Open Brain</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="214c5ab4-9f4b-4c4e-be5e-2c4f773d3c7a">Amaterasu, Founder of the Blue Wolves</card>
+    <card qty="4" id="3231bac1-1bad-4991-9e7d-95249e11d4b6">Bluum Erkis, Flare Guardian</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

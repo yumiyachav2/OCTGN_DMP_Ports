@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="ca73d533-e6b1-42e4-a1d4-23f9f3428d74">Uberdragon Valkyrias</card>
+    <card qty="4" id="8b7fc29b-d79c-4b08-a88e-9d055d02c6e8">Cocco Lupia</card>
+    <card qty="4" id="28c84de7-5a48-4fb8-bb72-c5623a23a563">Jack Raidou, Battle Dragon</card>
+    <card qty="4" id="d031c833-da73-42a0-af4a-cd2a8ce9af6d">Volcano Charger</card>
+    <card qty="4" id="6c562252-75d9-4723-8316-e3dc4a303e3d">Velyrika Dragon</card>
+    <card qty="4" id="f3f7f83e-daf8-4327-b963-6a4f13fd4d6c">Valkerios Dragon</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="852acd17-4095-455f-b45d-f3933379888f">Magmadragon Balga Geyser</card>
+    <card qty="4" id="30897de2-7626-489b-8760-3caa2a15ed95">Abdullah Flame Dragon</card>
+    <card qty="3" id="6e44a03e-672e-4959-8f1b-f0e59174e5a2">Super Burst Shot</card>
+    <card qty="3" id="3d6b7853-c3eb-446c-aee1-984ed00b04ac">Phantom Dragon's Flame</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="da5c87ff-5a92-4332-9284-9a885913ab5f">Marianna, Channeler of Suns</card>
+    <card qty="2" id="043e8fb7-5e32-436c-a5e1-45aac4991653">Deklowaz's Brooch</card>
+    <card qty="2" id="e959bf35-239c-4dc7-9de3-31a65760e593">Demonic Protector</card>
+    <card qty="2" id="c592ca18-7f77-4d59-8dab-07c20d7e96b9">Crimson Rifle</card>
+    <card qty="1" id="215a098f-1fb7-4f8a-8df6-0ee255b1cf26">Petrial Flame</card>
+    <card qty="4" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="4" id="2419df7e-24c2-49b3-95b1-97c5ea197241">Bega, Vizier of Shadow</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="45b480ca-cb25-4737-bc96-ad0b1a069419">Infernal Smash</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="3" id="d031c833-da73-42a0-af4a-cd2a8ce9af6d">Volcano Charger</card>
+    <card qty="2" id="02b4fa1f-763e-40e5-8512-bb7d2ffa322a">Corpse Charger</card>
+    <card qty="4" id="8ed1afbb-c05e-46c0-949b-7cc4b9bf7cee">Belix, the Explorer</card>
+    <card qty="1" id="6e5abdfc-f156-4257-88ed-105b02e1145a">Piara Heart</card>
+    <card qty="1" id="6de82fd6-d901-472e-ab66-0ab2b230174a">Darkness Southern</card>
+    <card qty="1" id="eb2efde5-37b9-435b-971f-ac5648b9ba05">Super Spark</card>
+    <card qty="2" id="6a909066-2011-4de7-9a97-cab333dca4cf">Mist Rias, Sonic Guardian</card>
+    <card qty="1" id="1960f3c2-5321-4da1-be56-50a7e98cae0d">Phal Eega, Dawn Guardian</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

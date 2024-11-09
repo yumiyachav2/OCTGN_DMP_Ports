@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="1" id="ec422f20-8d5a-4bdd-a5c9-14724e213095">Pixie Cocoon</card>
+    <card qty="3" id="4e95d326-9d96-4ae3-8194-7f3b002e3376">Duel Tulip</card>
+    <card qty="4" id="1393f896-44c3-4a8e-b9b6-5e5f6a1c1b93">Victory Apple</card>
+    <card qty="3" id="03460d4f-a9b1-4d75-b2b0-b87806bb941d">Peach Princess, Fearless Faerie</card>
+    <card qty="4" id="436ad3f5-f9e6-4a5a-939c-952f130ab28e">Great Cactus</card>
+    <card qty="4" id="a5bc25ce-89fd-4a9e-ad0c-b5ea8eb53138">Baron Gouyama</card>
+    <card qty="2" id="acf632ca-bedf-40b9-bf73-fc5ec7ad6e97">Big Nasdeen, Great Veggie King</card>
+    <card qty="4" id="6da6ae55-baf5-45a6-b5a2-6b36acd4afa4">Comet Eye, The Spectral Spud</card>
+    <card qty="1" id="62181e03-caa5-494d-b054-378d7285fb81">Balphalt, Spirit Meteor</card>
+    <card qty="3" id="ed7c70ff-90e7-4741-9429-d24822ac24a1">Auravine, Earth's Grasp</card>
+    <card qty="1" id="072de5e2-21d7-44c8-b2b0-d1aa04cfa5a3">Supernova Jupiter King Empire</card>
+    <card qty="1" id="35a53ce4-f1a5-4108-959d-b38c5b6f5523">Samba Totem</card>
+    <card qty="1" id="749d1209-4847-4401-8d70-8c95fd26c220">Magris, Vizier of Magnetism</card>
+    <card qty="4" id="68373961-0fc7-44b4-b8b2-52c9c7699d86">Mardes, Spirit Knight</card>
+    <card qty="4" id="eb2efde5-37b9-435b-971f-ac5648b9ba05">Super Spark</card>
+    <card qty="3" id="6a909066-2011-4de7-9a97-cab333dca4cf">Mist Rias, Sonic Guardian</card>
+    <card qty="1" id="c8df4bed-3afc-47eb-8549-da5387dd51b0">Asteria, Heaven's Blessing Elemental</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

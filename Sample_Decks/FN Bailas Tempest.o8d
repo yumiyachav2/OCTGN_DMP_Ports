@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="ca6ab178-a919-4343-b92f-6e22ff3f0f72">Super Teradragon Bailas Tempest</card>
+    <card qty="4" id="ca7ab178-a919-4343-b92f-6e22ff3f0f72">Rabbicellon, Pure Eyes</card>
+    <card qty="4" id="f21b30a4-7ee9-4db3-b048-21986d402e94">Terradragon Balgazarmas</card>
+    <card qty="4" id="37b495e5-c4c7-4e71-af86-bf1119effeb3">Bronzezaurus, Bronzekind</card>
+    <card qty="4" id="012892f0-2316-4fa6-83eb-3ff5cbf928e6">Bultratops, Leaf Wind Kind</card>
+    <card qty="4" id="579dbde2-15fe-40c1-b620-606c17387e1f">Lifeplan Charger</card>
+    <card qty="4" id="30897de2-7626-489b-8760-3caa2a15ed95">Abdullah Flame Dragon</card>
+    <card qty="4" id="8b7fc29b-d79c-4b08-a88e-9d055d02c6e8">Cocco Lupia</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="4" id="b78076a1-eecf-4cc1-9bbc-009b90930edf">Super Dragon Machine Dolzark</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

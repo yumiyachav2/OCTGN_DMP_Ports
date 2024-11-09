@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="725f3145-2be0-41e8-9657-474d791a29c2">Shiden Galaxy, Super Champ</card>
+    <card qty="4" id="418b281d-c15d-46ac-9d54-6c19fb87dd7c">Endra Pappi</card>
+    <card qty="1" id="3bc03913-3daa-495f-a5db-025bcfa95374">Stronghold of Lightning and Flame</card>
+    <card qty="1" id="d734a3c2-9075-4e79-947b-34e8804220a3">Asylum, Elemental Dragon Knight</card>
+    <card qty="2" id="d031c833-da73-42a0-af4a-cd2a8ce9af6d">Volcano Charger</card>
+    <card qty="3" id="28c84de7-5a48-4fb8-bb72-c5623a23a563">Jack Raidou, Battle Dragon</card>
+    <card qty="2" id="bd13d634-13a2-4918-a05b-ab23103c71a9">Flameburn Dragon</card>
+    <card qty="1" id="f3f7f83e-daf8-4327-b963-6a4f13fd4d6c">Valkerios Dragon</card>
+    <card qty="3" id="30897de2-7626-489b-8760-3caa2a15ed95">Abdullah Flame Dragon</card>
+    <card qty="2" id="6c562252-75d9-4723-8316-e3dc4a303e3d">Velyrika Dragon</card>
+    <card qty="3" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="8ed1afbb-c05e-46c0-949b-7cc4b9bf7cee">Belix, the Explorer</card>
+    <card qty="1" id="7850f333-93e4-4713-b651-4ba02988b047">Peace Lupia</card>
+    <card qty="4" id="6f6a47c9-5d86-4344-b92d-4a481e598fbb">Pikarie, Radiance Elemental</card>
+    <card qty="1" id="e1a87351-4613-4499-a9e8-abbc683821cb">Ultimus, Divine Law Elemental</card>
+    <card qty="2" id="c8df4bed-3afc-47eb-8549-da5387dd51b0">Asteria, Heaven's Blessing Elemental</card>
+    <card qty="1" id="05c5496d-e5fa-4691-8542-2d6c6919f402">Ularus, Punishment Elemental</card>
+    <card qty="3" id="eb2efde5-37b9-435b-971f-ac5648b9ba05">Super Spark</card>
+    <card qty="1" id="0a2639a5-8e3d-4858-a6dd-05a14dee84de">Sun's Creed, Spirit of Revelation</card>
+    <card qty="1" id="a223784e-227b-4412-b797-c2f43ffb5d20">Osso Leone, Scare Spirit</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="0a75a180-d69c-4968-9a80-cbcbc8bbd036">Deathperado, Destruction God</card>
+    <card qty="1" id="755d9eed-06d8-4233-8a2a-eeb48ade6a93">Death, Destruction God</card>
+    <card qty="4" id="a1d49a6d-a114-4788-942f-a2a0edcfc471">Heavy, Dragon God</card>
+    <card qty="4" id="93a08d95-497e-40d2-83bb-63f35f1ea478">Metal, Dragon God</card>
+    <card qty="3" id="c2b88eb1-4b7e-4b33-98cd-4ccbee64a3d2">Violence Heaven</card>
+    <card qty="3" id="514ddc56-84c4-43c6-8d77-beb073306462">Heracles, Birther of Gods</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="ca6ab180-a919-4343-b92f-6e22ff3f0f72">Faerie Song</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="4" id="8f2de803-dca7-4426-b022-922f34d683ff">Honenbe, Skeletal Guardian</card>
+    <card qty="2" id="6dfdd98c-da99-4a5d-9595-51430026d97d">Faerie Life</card>
+    <card qty="2" id="1b403f4e-ba6c-4796-9173-bf2146c14a28">Western Barrel, Shadow of Riots</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

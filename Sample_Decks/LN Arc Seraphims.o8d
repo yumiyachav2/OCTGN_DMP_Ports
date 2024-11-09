@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="7ee6d441-c07d-4115-b9ec-a022cdb4e04b">Soldarios, Holy Emperor</card>
+    <card qty="1" id="b7e9a70c-023c-4f82-9781-18a2ae14596f">Elsar Baltis, Holy Emperor</card>
+    <card qty="3" id="a69f7c4b-fe15-4cea-9b90-9f99d372a344">Alephtina, Spiritual Princess</card>
+    <card qty="2" id="2b8805c7-4de3-4b1b-99ed-6ecf16b574b2">Padma Romasa, Spirit Knight</card>
+    <card qty="4" id="35af9f49-e3cd-437d-b779-b51cd5d3129a">Valcha, the Guardian Spirit Knight</card>
+    <card qty="4" id="7e3de293-0f14-4fcb-a691-592874d5faee">Dunas, Spirit Knight</card>
+    <card qty="4" id="68373961-0fc7-44b4-b8b2-52c9c7699d86">Mardes, Spirit Knight</card>
+    <card qty="4" id="f07920d8-4a06-43e4-aefc-691a43eb9ed4">Chictac Kyun, Spirit Beast</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="6a909066-2011-4de7-9a97-cab333dca4cf">Mist Rias, Sonic Guardian</card>
+    <card qty="4" id="eb2efde5-37b9-435b-971f-ac5648b9ba05">Super Spark</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

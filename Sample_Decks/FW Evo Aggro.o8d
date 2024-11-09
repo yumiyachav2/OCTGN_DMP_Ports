@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="79a58edf-b75d-43fb-9abf-edcd25e8951a">B-Boy, the Explosive</card>
+    <card qty="2" id="f40cb65f-439d-4348-8dfb-09f7e7376875">Max, Crimson Blade Lord</card>
+    <card qty="3" id="fe623f71-f549-43ac-b9a2-06ac93d243e9">Valdrill, Armor of Fury</card>
+    <card qty="3" id="1a1a4b15-6460-47fb-bf2b-d0548477bc0b">Mach Phoenix, Super-Alloy</card>
+    <card qty="4" id="053cc380-92c4-4590-b8ea-46306868ffc6">Dacity Dragoon, Explosive Beast</card>
+    <card qty="1" id="d96cdbba-0e60-4d8e-9394-4830b11f559d">Emeral</card>
+    <card qty="4" id="b8d4fe22-66c2-46d3-b9c5-8a18da71967f">Qurian</card>
+    <card qty="3" id="b1dfd12b-e849-4155-ad1f-5055aef10eef">Tensai Janit of the Hidden Blade</card>
+    <card qty="2" id="a92bff9e-b0ed-4648-9c02-afa6e12986ab">Emperor Maribel</card>
+    <card qty="3" id="95ec6a25-f5aa-4682-9ec5-c2c2b06a4960">Emperor Marco</card>
+    <card qty="2" id="a4620177-7f84-4afc-855c-eab758cde11a">Maxwell Z, the Super-Electric</card>
+    <card qty="2" id="154fb46f-e705-4778-97d7-640012a996a2">Ice Lance - Paladin Spear</card>
+    <card qty="4" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+    <card qty="4" id="29d8bcde-2380-4689-9b2e-ace92e37ce0c">Pipippi, Electro-Riser</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

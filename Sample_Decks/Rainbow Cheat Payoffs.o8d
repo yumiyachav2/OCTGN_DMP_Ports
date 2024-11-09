@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="6dfdd98c-da99-4a5d-9595-51430026d97d">Faerie Life</card>
+    <card qty="4" id="f1def5f9-df2b-4c1b-aaf2-b172797d6f31">Seventh Tower</card>
+    <card qty="4" id="a5ec6840-0e22-4eb9-9866-3cb5fbf23e3f">Hogan Blaster</card>
+    <card qty="4" id="e1bd908a-e2d8-4979-a3d1-2ed39007028d">The Door of Miracle and Mystery</card>
+    <card qty="4" id="9fbcde11-9015-4c82-a891-4719007299fb">Positron Sign</card>
+    <card qty="4" id="3f82c55e-5b71-4202-bf74-b4299614d32e">Bolmeteus Sapphire Dragon</card>
+    <card qty="4" id="cfcd4201-ea9a-4b6b-9793-70ab4b4a48de">Spell Del Fin, Light Divine Dragon</card>
+    <card qty="4" id="45cb13ab-fec9-4b3c-815d-b902ad061858">El Dorado, Spirit of Taiga</card>
+    <card qty="4" id="1a705d1a-f71b-415d-b801-44e9fcdadf76">Cyber A Irons</card>
+    <card qty="4" id="158575e4-3d66-437f-b405-ea4456fb3812">Fortification Against Barrage and Ambush</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

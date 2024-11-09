@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="9d610841-4032-4b8e-889f-be7429f12f38">Izana, Crime God</card>
+    <card qty="4" id="4e08dd0e-b0c4-4d28-95ec-05f3157abcec">Orphe, Punishment God</card>
+    <card qty="2" id="d7d3f9dd-ed61-43cd-ad30-a9beb4a60c94">Fuuma Bagantis</card>
+    <card qty="4" id="57eeb3c3-2561-4841-a381-2e50d17533d1">Aqua Hulcus</card>
+    <card qty="2" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="2" id="24ec4b9d-1839-4a0f-9ebf-f5340bfc523a">Spiral Gate</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="f9810ff9-ae5e-41c5-a88d-4bf6324e1c7e">Cranium Clamp</card>
+    <card qty="4" id="dde9d2a1-5b89-4046-b65b-e463d258e7ca">El Kaiou, Spirit Mecha King</card>
+    <card qty="2" id="c177dfb8-1e09-496f-b134-e3b9790ab317">Milkyway, Spectral Knight</card>
+    <card qty="3" id="cfcd4201-ea9a-4b6b-9793-70ab4b4a48de">Spell Del Fin, Light Divine Dragon</card>
+    <card qty="2" id="b65baba7-3edd-41ca-83c7-aea64025c777">Thrash Crawler</card>
+    <card qty="3" id="2419df7e-24c2-49b3-95b1-97c5ea197241">Bega, Vizier of Shadow</card>
+    <card qty="2" id="b6a3f511-f271-49a4-afad-9da739c8dd72">Bangren, Ancient Arhat</card>
+    <card qty="2" id="7d87dcf1-468f-49cc-a5ee-dbdc533a96cc">Eureka Charger</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

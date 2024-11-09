@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="2" id="0c9a1dc5-bb6e-4176-9f49-04e6c4f82b4a">Worm Gowarski, Masked Insect</card>
+    <card qty="4" id="9858af09-ca76-40ed-96c9-1bbb080f0f11">Burial Worm, the Burying Insect</card>
+    <card qty="3" id="1a7e7cc9-60fb-46e8-8f19-f792d792c673">Like a Rolling Storm</card>
+    <card qty="2" id="7e9225cc-b7d8-4267-a8db-9ec0c7629216">Slash Charger</card>
+    <card qty="4" id="8f2de803-dca7-4426-b022-922f34d683ff">Honenbe, Skeletal Guardian</card>
+    <card qty="3" id="0b7d42b9-5b4d-4566-ba41-2eb26a42f8e6">Locomotiver</card>
+    <card qty="4" id="a5feba11-ce85-4283-893a-1cd2bec0afcc">Death Circle, the Explosive Shadow</card>
+    <card qty="2" id="5ca4b891-723b-40e9-8783-eafdf8a6b94b">Sir Virginia, Mystic Light Insect</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="1" id="89045c01-cadb-4f6a-b683-c85a513c2521">Ganveet Twist</card>
+    <card qty="4" id="40524def-2b86-4e2e-a245-887d2c7ae029">Yata Izuna, Eight-Headed Parasite</card>
+    <card qty="4" id="42fb5892-75f6-4299-bece-ec838b5072ba">Black Insect Magistrate</card>
+    <card qty="4" id="710e3158-5264-413f-bacd-da3b47be1c42">Varz Romanov, Dark Lord of Demons</card>
+    <card qty="3" id="5770a0da-65bb-4266-b0d8-1af18ed8ddf2">Hades, Emperor of Death</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="f2d2121f-cf86-456d-b232-dc8037902b14">Ashliger, Holy Dark Beast</card>
+    <card qty="3" id="2419df7e-24c2-49b3-95b1-97c5ea197241">Bega, Vizier of Shadow</card>
+    <card qty="4" id="8813d7a1-158b-42c3-b5df-8dc4edcdcd22">Balhols, Demonic Elemental</card>
+    <card qty="2" id="bcd9c7eb-403d-46e0-ad14-4ce8f96d4f88">Queen Alcadeias, Holy Gaia</card>
+    <card qty="4" id="6f6a47c9-5d86-4344-b92d-4a481e598fbb">Pikarie, Radiance Elemental</card>
+    <card qty="2" id="81e05a20-875a-4047-af47-9850dac9a863">Syforce, Aurora Elemental</card>
+    <card qty="4" id="a8e806e4-9675-49c1-b4c1-4c9ab2fa789e">Pala Olesis, Morning Guardian</card>
+    <card qty="3" id="afa724a7-6a5e-425d-984c-b1a977b0c7f8">Screaming Sunburst</card>
+    <card qty="4" id="653955bf-bb79-4093-83ca-714d2aba9614">Heaven's Gate</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="1" id="eb2efde5-37b9-435b-971f-ac5648b9ba05">Super Spark</card>
+    <card qty="1" id="a223784e-227b-4412-b797-c2f43ffb5d20">Osso Leone, Scare Spirit</card>
+    <card qty="2" id="7b95be5c-d378-4af4-98ce-dc18d2e3d172">Morbid Medicine</card>
+    <card qty="1" id="a5453b2b-004b-4c19-a175-2c4dc101a75d">Heavens, Heaven's Gate Elemental</card>
+    <card qty="3" id="4d576949-1cc9-4fd3-8c6f-3ee7e223a15a">Alphadios, Lord of Spirits</card>
+    <card qty="1" id="7d4b64b0-1672-47d4-b54d-1758b0bb08cf">Alcadeias, Lord of Spirits</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

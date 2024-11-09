@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="e95e8eb9-aa9f-4b05-aa7f-4e1e838e32a0">Supernova Mercury Gigablizzard</card>
+    <card qty="4" id="32b94d00-c8db-471a-a9b3-bf2edf12a0eb">Osmosis Bullet Soul Skull Hunter</card>
+    <card qty="4" id="dde9d2a1-5b89-4046-b65b-e463d258e7ca">El Kaiou, Spirit Mecha King</card>
+    <card qty="2" id="a5808f78-87eb-4de1-9577-de750ef79eec">Oboro Kagerou, Moonlight Mecha</card>
+    <card qty="4" id="94253a20-2b09-4c4c-8df5-5dadc3ab623a">Athers, Guerilla Robot</card>
+    <card qty="4" id="57eeb3c3-2561-4841-a381-2e50d17533d1">Aqua Hulcus</card>
+    <card qty="2" id="0d9e7ee6-0694-442d-8d9f-eadb52dea802">Aqua Belala</card>
+    <card qty="4" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="4" id="314605d0-7f04-4fbb-a8ee-1720b15a189d">Mil Armor, Mecha King Vizier</card>
+    <card qty="2" id="e3d94e77-a04a-450a-8695-cea4603d75eb">Lazerion, Light Attack Soldier</card>
+    <card qty="2" id="0ec572b0-ffaf-4abd-a540-ba26c98aacc5">Holy Awe</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

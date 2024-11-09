@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="8b619595-3387-4859-b938-37969ac32562">Fist Blader</card>
+    <card qty="4" id="23c905d3-a554-4d45-b8d7-1b46fe8d117f">Time Scout</card>
+    <card qty="4" id="afc1c0ca-abb7-4215-b2ad-92120db761bd">Pacific Champion</card>
+    <card qty="4" id="8bba8e5c-e0d3-4ffa-881f-c616ea1c9830">Deep Juggler</card>
+    <card qty="4" id="3f331274-f5f8-42e7-9f28-ce637add34d4">Marine Flower</card>
+    <card qty="4" id="62c85ad7-20c5-4eb0-8b9e-58c4266139f1">Astral Reef</card>
+    <card qty="4" id="be80f0e8-05b7-4914-916a-f24d5e616ea8">Spiral Gate</card>
+    <card qty="4" id="d03a8283-6c9b-4a0c-aec7-41d44a6f2fcf">Grape Globbo</card>
+    <card qty="4" id="57eeb3c3-2561-4841-a381-2e50d17533d1">Aqua Hulcus</card>
+    <card qty="2" id="3ea31906-ae2d-4906-acf9-0f3ff7478e96">Tempest Baby</card>
+    <card qty="2" id="71b80172-8b18-4140-99bf-d8bc4201e07e">Lucky Ball</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

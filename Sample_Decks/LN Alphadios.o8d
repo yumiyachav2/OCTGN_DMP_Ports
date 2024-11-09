@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="4d576949-1cc9-4fd3-8c6f-3ee7e223a15a">Alphadios, Lord of Spirits</card>
+    <card qty="2" id="e320bb18-b352-45a6-bf7f-7f682a0b57fa">HEAVEN, White Knight Lord of Spirits</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="f30403b3-75b0-4916-9d5e-5d21e0461326">Skysword, the Savage Vizier</card>
+    <card qty="1" id="ec422f20-8d5a-4bdd-a5c9-14724e213095">Pixie Cocoon</card>
+    <card qty="2" id="0dca6f6c-c426-4c88-b283-043527f04bb3">Fighter Dual Fang</card>
+    <card qty="2" id="c0855591-72f3-440c-b450-7516654a54ce">Hustle Castle</card>
+    <card qty="4" id="6f6a47c9-5d86-4344-b92d-4a481e598fbb">Pikarie, Radiance Elemental</card>
+    <card qty="3" id="0a2639a5-8e3d-4858-a6dd-05a14dee84de">Sun's Creed, Spirit of Revelation</card>
+    <card qty="3" id="a223784e-227b-4412-b797-c2f43ffb5d20">Osso Leone, Scare Spirit</card>
+    <card qty="3" id="eb2efde5-37b9-435b-971f-ac5648b9ba05">Super Spark</card>
+    <card qty="1" id="120d326c-2ed9-4c4e-ac39-00a771e6e868">Valiant Spark</card>
+    <card qty="4" id="71747845-55ec-4f5e-bef7-df3a9f56bbcf">Murmur, Vizier of Formation</card>
+    <card qty="2" id="a8e806e4-9675-49c1-b4c1-4c9ab2fa789e">Pala Olesis, Morning Guardian</card>
+    <card qty="3" id="afa724a7-6a5e-425d-984c-b1a977b0c7f8">Screaming Sunburst</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

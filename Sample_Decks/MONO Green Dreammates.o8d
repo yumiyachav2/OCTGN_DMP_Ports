@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="dd50976e-e060-4b20-ae8a-df5030463b2b">1st Lt. Pen Pen, Special Forest Commander</card>
+    <card qty="4" id="b6c3f819-6fc1-4c41-ace4-49ad693b06a6">Yattar Wan, Adventuring Fox</card>
+    <card qty="4" id="d535a889-54c2-4964-88ee-42921c101f1d">Prisoned Pakoneko</card>
+    <card qty="2" id="5372fb3c-b7f6-4acb-a819-e82ecb7a56ad">Donna Dona, Remnant of the Jungle</card>
+    <card qty="4" id="e1178e21-6946-46d5-b848-3bef7180dfb7">Banjo, the Super-energetic</card>
+    <card qty="4" id="74ecd4c0-dc86-45b2-8c6a-a0f4e6d83640">Shiba, Amazing Artiste</card>
+    <card qty="4" id="0af23c03-bc89-4021-9b2a-00d09bf704e4">Kenji Panda Nelra, Tyrannical Shogun</card>
+    <card qty="2" id="9ec22f5d-de1f-4440-82b2-1a3c86230488">Daigoku Ogre, Brave of Disaster</card>
+    <card qty="4" id="b006794c-8697-4c2c-b6f9-b9d3e2217d94">Yu Wandafor, Phantom Beast Admiral</card>
+    <card qty="4" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="2" id="b43f0ff2-01c5-4e1a-bcec-488de5a830e8">Cradle of Growth</card>
+    <card qty="2" id="6e381955-231b-4e4e-a14c-82509a5e193c">Rumbling Terahorn</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

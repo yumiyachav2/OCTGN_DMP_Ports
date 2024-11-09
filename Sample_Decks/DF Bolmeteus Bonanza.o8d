@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="805081a2-8861-424e-a2df-a6baf09a7ee6">Bolmeteus Black Dragon</card>
+    <card qty="4" id="4717faef-1065-4153-a509-854c22637e27">Bolmeteus Steel Dragon</card>
+    <card qty="2" id="8e7893b8-2e08-4f17-b645-772d740ba0f0">Bolmeteus Musha Dragon</card>
+    <card qty="2" id="3f82c55e-5b71-4202-bf74-b4299614d32e">Bolmeteus Sapphire Dragon</card>
+    <card qty="4" id="8b7fc29b-d79c-4b08-a88e-9d055d02c6e8">Cocco Lupia</card>
+    <card qty="2" id="41c7b6f8-ed4b-4865-bc25-ba0d6db77fbc">Dark Lupia</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="d031c833-da73-42a0-af4a-cd2a8ce9af6d">Volcano Charger</card>
+    <card qty="2" id="b7f3db8e-8ed0-4f7f-885a-bfef9c097d3e">Death Arcadia, Devil Saint</card>
+    <card qty="4" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="4" id="b2b79176-cb16-477e-872c-40493a56ea3c">Bilgias, Hardened Demon of Hellfire</card>
+    <card qty="3" id="9ec9cdec-1859-4dcd-996f-40580de59697">Dark Soul Creation</card>
+    <card qty="3" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="02b4fa1f-763e-40e5-8512-bb7d2ffa322a">Corpse Charger</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

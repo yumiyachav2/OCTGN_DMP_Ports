@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="9858af09-ca76-40ed-96c9-1bbb080f0f11">Burial Worm, the Burying Insect</card>
+    <card qty="3" id="1a7e7cc9-60fb-46e8-8f19-f792d792c673">Like a Rolling Storm</card>
+    <card qty="4" id="8f2de803-dca7-4426-b022-922f34d683ff">Honenbe, Skeletal Guardian</card>
+    <card qty="2" id="11a51921-a34c-4cfc-93fb-55afb611e4ec">Deathraios, Cursed Blade Reaper</card>
+    <card qty="3" id="9b01b8ac-7ab0-413d-9150-f6fdb9d54c1e">Death Monarch, Lord of Demons</card>
+    <card qty="3" id="d66ffe0f-7024-4f31-9f5c-20a3670d71bf">Basoabisu, Abyss Demon Dragon</card>
+    <card qty="4" id="5a053697-f994-4624-b8dd-bcd81372f19c">Black Lucifer, Sorcerer of Darkness</card>
+    <card qty="1" id="836e40e5-9b07-49c5-b3e1-c986c31ac1d7">Ballom Emperor, Lord of Demons</card>
+    <card qty="2" id="d8148927-73b9-4f40-a90e-6369196c8579">Olzekia, General of Decapitation</card>
+    <card qty="2" id="fab4495f-0c22-4fb1-af79-4d177925f4b1">Steiner, the Resurrecting Reaper</card>
+    <card qty="1" id="cba7ac02-9982-4865-8d37-64e95e7b610e">Dorballom, Lord of Demons</card>
+    <card qty="3" id="7e9225cc-b7d8-4267-a8db-9ec0c7629216">Slash Charger</card>
+    <card qty="4" id="595c6576-d9c8-4947-aa2e-519dc41b5b82">Inferno Sign</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="02b4fa1f-763e-40e5-8512-bb7d2ffa322a">Corpse Charger</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

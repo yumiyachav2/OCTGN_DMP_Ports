@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="33a5699f-1c9d-4f64-9c93-db5035253e14">Poppo Juvira, Winged God-destroyer</card>
+    <card qty="4" id="dcc5ee70-bc60-420d-92e5-ed8bd7ff949f">Death Phoenix, Avatar of Doom</card>
+    <card qty="4" id="8b7fc29b-d79c-4b08-a88e-9d055d02c6e8">Cocco Lupia</card>
+    <card qty="4" id="41c7b6f8-ed4b-4865-bc25-ba0d6db77fbc">Dark Lupia</card>
+    <card qty="2" id="07c00ddf-bd9e-4d12-b186-080f253e9806">Necrodragon Heavy Kerberos</card>
+    <card qty="2" id="e65ff627-3505-4add-aa1d-b9187e2ba3d9">Necrodragon Czar Gandhi</card>
+    <card qty="2" id="56bf9a01-ea95-48a6-ac85-5f8affedce7b">Necrodragon Bazradyuda</card>
+    <card qty="4" id="a1d49a6d-a114-4788-942f-a2a0edcfc471">Heavy, Dragon God</card>
+    <card qty="4" id="4d12e01b-43e8-417b-bce4-ed7bc8ab9ab8">Necrodragon Dobolzack</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="c788e651-c786-4634-9dcb-c8d01d35126c">Bomber Doll</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

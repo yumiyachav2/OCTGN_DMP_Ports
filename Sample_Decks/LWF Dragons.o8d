@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="1" id="a16028e0-c74c-410b-a01a-6784550aee99">Supernova Apollonus Dragerion</card>
+    <card qty="2" id="0f454bf9-e2fe-47ee-a894-9c7a14361541">Seventh, Light Divine Dragon</card>
+    <card qty="1" id="162d8f58-44bd-43f7-947a-9a192f8d1734">Dorvolan, Striking Dragon Rider</card>
+    <card qty="1" id="162bd41d-70c3-4c82-a660-a3e830a3da55">Ral Absorber, Light Divine Dragon</card>
+    <card qty="1" id="28c84de7-5a48-4fb8-bb72-c5623a23a563">Jack Raidou, Battle Dragon</card>
+    <card qty="2" id="725f3145-2be0-41e8-9657-474d791a29c2">Shiden Galaxy, Super Champ</card>
+    <card qty="2" id="37022124-a08d-4559-b164-eb2719846ea9">Spell Gear Phantom, Blue Wolf</card>
+    <card qty="2" id="8d0d154b-d53f-4bc4-9c8a-4d7c09074850">Bolshack NEX</card>
+    <card qty="2" id="4d673cdd-64e4-47fd-bcb8-a27456c97da2">Veil Babylonia, Blue Divine Dragon</card>
+    <card qty="2" id="bd13d634-13a2-4918-a05b-ab23103c71a9">Flameburn Dragon</card>
+    <card qty="2" id="f0deb2fa-6ff6-482f-a8a8-47e1ecf55158">Helios Tiga Dragon</card>
+    <card qty="2" id="b519b724-3a54-4847-8ca9-7b56fec4b3d9">Bolbalzak 'Sword Flash' Dragon, Blue Divine Dragon</card>
+    <card qty="3" id="eb2efde5-37b9-435b-971f-ac5648b9ba05">Super Spark</card>
+    <card qty="3" id="6e44a03e-672e-4959-8f1b-f0e59174e5a2">Super Burst Shot</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="d031c833-da73-42a0-af4a-cd2a8ce9af6d">Volcano Charger</card>
+    <card qty="4" id="8b7fc29b-d79c-4b08-a88e-9d055d02c6e8">Cocco Lupia</card>
+    <card qty="4" id="dde9d2a1-5b89-4046-b65b-e463d258e7ca">El Kaiou, Spirit Mecha King</card>
+    <card qty="3" id="7d87dcf1-468f-49cc-a5ee-dbdc533a96cc">Eureka Charger</card>
+    <card qty="1" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

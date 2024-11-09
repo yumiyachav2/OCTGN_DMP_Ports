@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="1b580089-7e76-4ada-a522-6a1b5695c8f1">Dragirias, Explosive Dragonic Phoenix</card>
+    <card qty="4" id="01756142-6e43-4586-9ea9-c2297d189c77">Pyron, the Battle Dragonic Firespirit</card>
+    <card qty="4" id="c3a0c3bf-4495-4213-9238-75d960fa667c">Raijin Dragoon</card>
+    <card qty="4" id="dc6e92bb-b8da-4392-a091-c72dad3d2c14">Braveheart Dragoon</card>
+    <card qty="2" id="9931a93e-c0ac-402a-b749-048ee24bd201">Smashblow Dragoon</card>
+    <card qty="4" id="da53337b-0de1-4cdf-911c-d95576911f7b">Metal Claw, Mobile Battle Dragon</card>
+    <card qty="4" id="a5bfb48e-79e9-4693-b300-0c6e63cc3eef">Venom Dragoon, Insectoid Battle Dragon</card>
+    <card qty="2" id="c8560389-aa15-44ee-9b1c-17a1319fda0c">Fire Smoke Drake</card>
+    <card qty="2" id="1517dfbf-a672-4927-b584-59a99ab6983a">Wine Red Dragoon</card>
+    <card qty="2" id="28c84de7-5a48-4fb8-bb72-c5623a23a563">Jack Raidou, Battle Dragon</card>
+    <card qty="4" id="434cf09b-688d-4d6d-8594-60a4538a5674">Bubble Trap</card>
+    <card qty="4" id="0201ea15-fd25-4e3e-9af5-508e7a6b33b4">Proclamation of Weakness</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

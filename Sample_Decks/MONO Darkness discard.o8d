@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="1d45c24f-81b5-4a33-9881-1751735c6eb7">Zamaru, Treasure of Darkness</card>
+    <card qty="4" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="4" id="0b7d42b9-5b4d-4566-ba41-2eb26a42f8e6">Locomotiver</card>
+    <card qty="4" id="9af80d2b-1a3f-4759-9374-5905938c22f5">Endless Puppet, Lord of Magic</card>
+    <card qty="4" id="4c21d977-5f93-4f9b-a0b9-0c4fc1153172">Niyaari, Exploding Doll</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="5bcab12f-5a17-4ade-b938-1c08a6290047">Spinning Terror, the Wretched</card>
+    <card qty="4" id="f0bb0b2d-e393-4cb7-8c6d-34476811f530">Time Tripper, Shadow of Stagnation</card>
+    <card qty="4" id="b2a80ade-8d00-4aa7-ad89-30473dfecd1b">Proclamation of Death</card>
+    <card qty="2" id="a1e3713b-21f2-4fff-adf0-1bdabf4292d1">Gigaslug</card>
+    <card qty="2" id="350d2dde-2abf-48c0-a1da-63dff2d00bfa">Hopeless Vortex</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="3e195f23-8044-45f2-8b66-e1aba985fe3e">Pipe Sprout</card>
+    <card qty="4" id="91e0c70e-d36c-48d9-a371-94b6184eab7f">Quick Avocado</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="4" id="8a39cfb1-2a5a-41c7-a2fc-75b197e12f44">Bronze Chain Sickle</card>
+    <card qty="4" id="ed7c70ff-90e7-4741-9429-d24822ac24a1">Auravine, Earth's Grasp</card>
+    <card qty="2" id="439b402f-25f0-4776-b60b-e864aa68e821">Terradragon Bagnaborne</card>
+    <card qty="2" id="642e3add-29c3-4272-ac4f-f3ad1035598c">Galbozack, Earth's Roar</card>
+    <card qty="2" id="bd170a42-f35f-4f4f-9098-29318e9a25ec">Bishamon, the Great Enigma</card>
+    <card qty="2" id="c0855591-72f3-440c-b450-7516654a54ce">Hustle Castle</card>
+    <card qty="4" id="777d2f2d-a3a1-4b9e-beaf-021e86787343">Ida, the Great Enigma</card>
+    <card qty="2" id="bdfe77fc-249f-46b0-817b-ebe8b9b24c02">Baban Ban Ban, Earth's Blessing</card>
+    <card qty="2" id="d4b2ab16-e358-4951-8465-e42fedd10594">Goemonkey! Snake-Handed Boss</card>
+    <card qty="4" id="6a926285-8835-43f3-8b3c-83a42df98978">Titan Giant</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="2" id="3f82c55e-5b71-4202-bf74-b4299614d32e">Bolmeteus Sapphire Dragon</card>
+    <card qty="2" id="7ebb15c3-0bf7-4c1a-b080-7213d407915c">X Revolver Dragon</card>
+    <card qty="2" id="b67a1028-26c1-4dae-be91-94c8e64ae302">Bolshack Cross NEX</card>
+    <card qty="4" id="f23acf84-3725-46fd-9bfc-318ab9f35429">Dandy Eggplant</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="2821d3b6-4eaa-4fe0-8498-8b6b16df43da">Colorful Dance</card>
+    <card qty="4" id="704e926a-03c3-4130-911c-bf1a4a6461ac">Inferno Gate</card>
+    <card qty="4" id="595c6576-d9c8-4947-aa2e-519dc41b5b82">Inferno Sign</card>
+    <card qty="4" id="a003c319-0a68-4b5a-a1fb-b504f5d5d408">Babelginus, Demonic Dragon</card>
+    <card qty="2" id="7e9225cc-b7d8-4267-a8db-9ec0c7629216">Slash Charger</card>
+    <card qty="4" id="a156ed1e-b2b4-4ed3-b6a9-539ff04c98dd">Kachua, Keeper of the Icegate</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

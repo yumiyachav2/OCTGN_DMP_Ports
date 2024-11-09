@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="fd742e53-72e2-454a-a811-f2bd8912ae90">Nam=Aueiki, Growth Style</card>
+    <card qty="4" id="f3daf9f8-a5ff-42f5-901b-e42362c58ec6">Kerasas, Start Dash</card>
+    <card qty="4" id="1a39292d-91df-4766-bf3f-f41bdbb75559">Nam=Daeddo, Bronze Style</card>
+    <card qty="2" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="6b2b21b3-f8e0-497d-b4d0-569e86100456">Japanica Giant</card>
+    <card qty="4" id="6a926285-8835-43f3-8b3c-83a42df98978">Titan Giant</card>
+    <card qty="4" id="ed7c70ff-90e7-4741-9429-d24822ac24a1">Auravine, Earth's Grasp</card>
+    <card qty="4" id="9281bc8a-fd10-4e70-9db4-1e1a493294ad">Triprex, Growth King</card>
+    <card qty="4" id="54b164df-2996-4de6-bd72-e3dd08c20c49">Otoma=Kutto, Fang Hero</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="4" id="00ede71e-2410-4120-93c3-3d1f18674059">Spike Trap</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

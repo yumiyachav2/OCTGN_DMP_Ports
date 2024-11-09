@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="beff2fcb-da8f-4e13-8ce3-311529bc6160">Necrodragon Zanjibar</card>
+    <card qty="4" id="b6a3f511-f271-49a4-afad-9da739c8dd72">Bangren, Ancient Arhat</card>
+    <card qty="4" id="e462e5ef-26fc-400c-9d7c-3eda5fc5e954">Fuuma Bajir, Soul Weapon</card>
+    <card qty="2" id="d2a8dfb9-56e7-45e1-9a63-e1d6c5cc86d9">Keen, the Mobile Sage</card>
+    <card qty="4" id="8ed1afbb-c05e-46c0-949b-7cc4b9bf7cee">Belix, the Explorer</card>
+    <card qty="2" id="02b4fa1f-763e-40e5-8512-bb7d2ffa322a">Corpse Charger</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="1" id="7e9225cc-b7d8-4267-a8db-9ec0c7629216">Slash Charger</card>
+    <card qty="2" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="4" id="d031c833-da73-42a0-af4a-cd2a8ce9af6d">Volcano Charger</card>
+    <card qty="2" id="4b715b5c-2e82-4686-9c9f-4ce1e5503621">Burst Shot</card>
+    <card qty="2" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="3" id="6a909066-2011-4de7-9a97-cab333dca4cf">Mist Rias, Sonic Guardian</card>
+    <card qty="4" id="2419df7e-24c2-49b3-95b1-97c5ea197241">Bega, Vizier of Shadow</card>
+    <card qty="3" id="0ec572b0-ffaf-4abd-a540-ba26c98aacc5">Holy Awe</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="0a3f1372-59a7-4ef1-b04e-2c9468e270c0">Morinooujadake Q</card>
+    <card qty="4" id="a422a702-fc94-45e8-b6d9-aa6b92e8797f">Blazosaur Q</card>
+    <card qty="4" id="8736bafc-29c8-461d-9a1f-af2f58b3aa84">Triton Q</card>
+    <card qty="4" id="5ff3c63c-30df-4f5c-acce-796f5b6c2dac">Smash Horn Q</card>
+    <card qty="4" id="e596193f-d8b2-4946-91bc-b00738baf90f">King Muu Q</card>
+    <card qty="4" id="124dc6bb-a6c3-4771-91a5-9cd2c2b198e7">Factory Shell Q</card>
+    <card qty="2" id="827fbb66-5363-41e9-9dab-5099d4ac165d">Omega Goliath Q</card>
+    <card qty="4" id="ca6ab180-a919-4343-b92f-6e22ff3f0f72">Faerie Song</card>
+    <card qty="2" id="579dbde2-15fe-40c1-b620-606c17387e1f">Lifeplan Charger</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="69ba671e-80f5-404d-bcc9-c828c53918d7">Judgement of the Flame's Spear and the Water's Blade</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

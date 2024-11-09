@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="4" id="8a39cfb1-2a5a-41c7-a2fc-75b197e12f44">Bronze Chain Sickle</card>
+    <card qty="2" id="6e381955-231b-4e4e-a14c-82509a5e193c">Rumbling Terahorn</card>
+    <card qty="4" id="f49257fc-9dd1-43a8-aa5b-70cfffb94a83">Sarutahiko, the Great Hero</card>
+    <card qty="2" id="777d2f2d-a3a1-4b9e-beaf-021e86787343">Ida, the Great Enigma</card>
+    <card qty="2" id="0dca6f6c-c426-4c88-b283-043527f04bb3">Fighter Dual Fang</card>
+    <card qty="3" id="6a926285-8835-43f3-8b3c-83a42df98978">Titan Giant</card>
+    <card qty="4" id="5a7afd0b-c765-4c58-9d72-dd9f13316e8d">Ralbin of Pop Mountain</card>
+    <card qty="4" id="dfe767f5-8883-4d3c-80ee-df3b277ff425">Gonta, the Warrior Savage</card>
+    <card qty="2" id="4717faef-1065-4153-a509-854c22637e27">Bolmeteus Steel Dragon</card>
+    <card qty="3" id="50659e23-c9ab-4e14-b965-2e70b06d4234">Drag Moon, the Enlightened</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

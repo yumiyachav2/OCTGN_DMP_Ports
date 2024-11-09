@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="d906c8b7-4797-4569-a444-cd0c88b308c3">Tulk, the Oracle</card>
+    <card qty="4" id="c5a869f4-a959-4667-a352-92df5369e0b9">Deadly Fighter Braid Claw</card>
+    <card qty="4" id="8de796fe-4d84-4f87-bb10-6a5f69f0d01e">Joe's Toolkit</card>
+    <card qty="2" id="ab930903-a942-4961-b015-c07b5c704c7a">Zack Ranba, the Sword Attacker</card>
+    <card qty="3" id="f63d041c-e752-4f5c-a3ab-80f45241b249">Kooc Pollon</card>
+    <card qty="3" id="1b83ff2c-3095-40d5-bd76-e1566836a8ea">Rikabu's Screwdriver</card>
+    <card qty="3" id="708d2e3a-76dd-40d6-9278-345383b3047a">Pyrofighter Magnus</card>
+    <card qty="1" id="ab743952-7857-490a-b6d6-6ecd9f0d68c8">Rikabu, the Dismantler</card>
+    <card qty="4" id="52559c9c-bfe6-4360-87e2-4f107178ffc2">Funnoo, Bloody Winds Officer</card>
+    <card qty="4" id="749d1209-4847-4401-8d70-8c95fd26c220">Magris, Vizier of Magnetism</card>
+    <card qty="2" id="dbc550d4-3479-4f83-bfcf-d3f8d377384e">Muramasa's Socket</card>
+    <card qty="2" id="94253a20-2b09-4c4c-8df5-5dadc3ab623a">Athers, Guerilla Robot</card>
+    <card qty="4" id="0a5600c5-65a0-439d-b19c-4bf5ee036e32">Volcanic Arrows</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

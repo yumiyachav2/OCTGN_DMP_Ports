@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="2" id="c912b52a-6d6b-4997-ba2d-49468e18eb65">Miraculous Plague</card>
+    <card qty="3" id="1ff7bdbe-3737-404e-a10e-71a21518ef71">Kingdom Geolg, Super Gaia</card>
+    <card qty="2" id="3231bac1-1bad-4991-9e7d-95249e11d4b6">Bluum Erkis, Flare Guardian</card>
+    <card qty="2" id="792a2f9c-a1f8-46f5-b17f-79ed6a20b3ff">Triple Brain</card>
+    <card qty="4" id="4131f7aa-b303-484a-82a3-83692f1e00c9">Spell Great Blue, Blue Divine Dragon</card>
+    <card qty="4" id="7d87dcf1-468f-49cc-a5ee-dbdc533a96cc">Eureka Charger</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="bdd33588-cdca-41d8-86be-2e7d8d4f65b8">Death Chaser</card>
+    <card qty="1" id="a3331db6-d3c2-4b3f-9fcc-f4aa9fc2bb52">Teleportation</card>
+    <card qty="3" id="2419df7e-24c2-49b3-95b1-97c5ea197241">Bega, Vizier of Shadow</card>
+    <card qty="3" id="dde9d2a1-5b89-4046-b65b-e463d258e7ca">El Kaiou, Spirit Mecha King</card>
+    <card qty="3" id="8ed1afbb-c05e-46c0-949b-7cc4b9bf7cee">Belix, the Explorer</card>
+    <card qty="2" id="24ec4b9d-1839-4a0f-9ebf-f5340bfc523a">Spiral Gate</card>
+    <card qty="2" id="b6a3f511-f271-49a4-afad-9da739c8dd72">Bangren, Ancient Arhat</card>
+    <card qty="2" id="749d1209-4847-4401-8d70-8c95fd26c220">Magris, Vizier of Magnetism</card>
+    <card qty="2" id="57eeb3c3-2561-4841-a381-2e50d17533d1">Aqua Hulcus</card>
+    <card qty="1" id="f9810ff9-ae5e-41c5-a88d-4bf6324e1c7e">Cranium Clamp</card>
+    <card qty="2" id="7e9225cc-b7d8-4267-a8db-9ec0c7629216">Slash Charger</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="71747845-55ec-4f5e-bef7-df3a9f56bbcf">Murmur, Vizier of Formation</card>
+    <card qty="4" id="6f6a47c9-5d86-4344-b92d-4a481e598fbb">Pikarie, Radiance Elemental</card>
+    <card qty="3" id="653955bf-bb79-4093-83ca-714d2aba9614">Heaven's Gate</card>
+    <card qty="2" id="a223784e-227b-4412-b797-c2f43ffb5d20">Osso Leone, Scare Spirit</card>
+    <card qty="2" id="81e05a20-875a-4047-af47-9850dac9a863">Syforce, Aurora Elemental</card>
+    <card qty="3" id="4d576949-1cc9-4fd3-8c6f-3ee7e223a15a">Alphadios, Lord of Spirits</card>
+    <card qty="4" id="f2d2121f-cf86-456d-b232-dc8037902b14">Ashliger, Holy Dark Beast</card>
+    <card qty="2" id="2419df7e-24c2-49b3-95b1-97c5ea197241">Bega, Vizier of Shadow</card>
+    <card qty="3" id="8813d7a1-158b-42c3-b5df-8dc4edcdcd22">Balhols, Demonic Elemental</card>
+    <card qty="2" id="7b95be5c-d378-4af4-98ce-dc18d2e3d172">Morbid Medicine</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="3d4863c7-9586-4e9a-af76-9ce1b5b332e2">Miraculous Snare</card>
+    <card qty="1" id="f4654889-1525-4686-bacf-2826638904f1">Lord Reis, Wisdom Elemantal</card>
+    <card qty="2" id="be80f0e8-05b7-4914-916a-f24d5e616ea8">Spiral Gate</card>
+    <card qty="4" id="6e61ff30-c011-46bf-8b0c-2352c9c45766">Aquan Jr.'s Delivery</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

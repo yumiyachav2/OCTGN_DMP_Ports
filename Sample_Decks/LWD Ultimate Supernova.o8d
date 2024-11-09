@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="f6743a1a-3108-40ab-b031-6352c13a8ef2">Supernova Neptune Shutrom</card>
+    <card qty="4" id="171f1605-15f5-4d46-bc07-fea05260c1d5">Una Arana, Neptune Spirit</card>
+    <card qty="1" id="b65baba7-3edd-41ca-83c7-aea64025c777">Thrash Crawler</card>
+    <card qty="3" id="b2b79176-cb16-477e-872c-40493a56ea3c">Bilgias, Hardened Demon of Hellfire</card>
+    <card qty="1" id="fab4495f-0c22-4fb1-af79-4d177925f4b1">Steiner, the Resurrecting Reaper</card>
+    <card qty="3" id="d66ffe0f-7024-4f31-9f5c-20a3670d71bf">Basoabisu, Abyss Demon Dragon</card>
+    <card qty="4" id="6f6a47c9-5d86-4344-b92d-4a481e598fbb">Pikarie, Radiance Elemental</card>
+    <card qty="3" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="7c943031-002f-414c-880b-47c31e954fce">Ur, Cleansing Elemental</card>
+    <card qty="4" id="3d4863c7-9586-4e9a-af76-9ce1b5b332e2">Miraculous Snare</card>
+    <card qty="4" id="be73e82d-6da3-41b2-9218-29c06ce8f8c9">Bloody Shadow, Mystic Light Death Knight</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="2" id="24ec4b9d-1839-4a0f-9ebf-f5340bfc523a">Spiral Gate</card>
+    <card qty="1" id="02b4fa1f-763e-40e5-8512-bb7d2ffa322a">Corpse Charger</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

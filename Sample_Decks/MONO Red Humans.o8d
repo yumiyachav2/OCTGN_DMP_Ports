@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="af3bc221-1cc2-4f58-83ea-2673ac2c66c5">Immortal Baron, Vorg</card>
+    <card qty="4" id="9fed2257-362f-43c7-b50e-5526ccf799aa">Mini Titan Gett</card>
+    <card qty="2" id="5370bad9-1260-455e-8120-ea89badc7eaf">Brawler Zyler</card>
+    <card qty="4" id="e9a62043-5346-4584-bb61-84828af444f9">Armored Valborg</card>
+    <card qty="2" id="3787e39c-e12f-463f-9012-77991dccea7c">Skyrab, the Reckless Brat</card>
+    <card qty="4" id="1d0c9222-e984-48dd-b1aa-1ab950667fec">Izanomi Heat, Piercing Light Soldier</card>
+    <card qty="2" id="3c1ea573-d8d1-44db-8fc8-8703e5b84bc0">Mezger, Commando Leader</card>
+    <card qty="2" id="65df0a97-9686-4a93-a586-28b491592806">Armored Decimator Valkaizer</card>
+    <card qty="4" id="551148f8-29bc-4d58-8376-7af75468d92b">Dual Shock Dragon</card>
+    <card qty="4" id="0a5600c5-65a0-439d-b19c-4bf5ee036e32">Volcanic Arrows</card>
+    <card qty="4" id="5862daa0-ffbc-4a66-950a-c4f46cbccadf">Zyler's Lighter</card>
+    <card qty="4" id="c5a869f4-a959-4667-a352-92df5369e0b9">Deadly Fighter Braid Claw</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

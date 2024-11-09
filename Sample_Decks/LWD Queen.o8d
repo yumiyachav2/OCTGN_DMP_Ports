@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="bcd9c7eb-403d-46e0-ad14-4ce8f96d4f88">Queen Alcadeias, Holy Gaia</card>
+    <card qty="4" id="be73e82d-6da3-41b2-9218-29c06ce8f8c9">Bloody Shadow, Mystic Light Death Knight</card>
+    <card qty="3" id="71913654-b5bd-4d93-8a61-189ca4d0341b">Maxval, Electro-Fuuma</card>
+    <card qty="3" id="2419df7e-24c2-49b3-95b1-97c5ea197241">Bega, Vizier of Shadow</card>
+    <card qty="3" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="3" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="2072f6de-c78c-492c-b026-4d94b148e8a2">Hide and Seek</card>
+    <card qty="3" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+    <card qty="1" id="831f5090-667f-41e3-863d-2db3d8be68db">Hydro Hurricane</card>
+    <card qty="2" id="0ec572b0-ffaf-4abd-a540-ba26c98aacc5">Holy Awe</card>
+    <card qty="3" id="db6f40de-0d23-4a20-9a22-19c9aaa4cb04">Chief De Baula, Machine King of Mystic Light</card>
+    <card qty="2" id="7b95be5c-d378-4af4-98ce-dc18d2e3d172">Morbid Medicine</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="1" id="3da55908-e105-4270-b150-d5155f222f0b">Aquan</card>
+    <card qty="1" id="82cb4895-cb47-4471-8bb8-e58f9b4faffd">Perfect Galaxy, Immortality Elemental</card>
+    <card qty="2" id="b6a3f511-f271-49a4-afad-9da739c8dd72">Bangren, Ancient Arhat</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

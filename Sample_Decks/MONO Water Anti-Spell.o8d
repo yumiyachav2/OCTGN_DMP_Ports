@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="21f0f2d8-8ec4-4c23-acfd-20ed8ab74c44">Fuuma Gorgonshack</card>
+    <card qty="4" id="57eeb3c3-2561-4841-a381-2e50d17533d1">Aqua Hulcus</card>
+    <card qty="4" id="b8d4fe22-66c2-46d3-b9c5-8a18da71967f">Qurian</card>
+    <card qty="2" id="0d9e7ee6-0694-442d-8d9f-eadb52dea802">Aqua Belala</card>
+    <card qty="4" id="d19cc92d-887d-4db0-b94d-160d81a89952">Roxio, Electro-Fuuma</card>
+    <card qty="4" id="8bba8e5c-e0d3-4ffa-881f-c616ea1c9830">Deep Juggler</card>
+    <card qty="3" id="32b94d00-c8db-471a-a9b3-bf2edf12a0eb">Osmosis Bullet Soul Skull Hunter</card>
+    <card qty="4" id="c9b98336-312d-4d08-8add-6b820a88815f">Unicorn Fish</card>
+    <card qty="4" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+    <card qty="3" id="bac1806e-845e-492e-a1b7-d9a685676ed4">Gaiacrush Crawler</card>
+    <card qty="4" id="95ec6a25-f5aa-4682-9ec5-c2c2b06a4960">Emperor Marco</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

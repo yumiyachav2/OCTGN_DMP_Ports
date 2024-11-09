@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="5ca4b891-723b-40e9-8783-eafdf8a6b94b">Sir Virginia, Mystic Light Insect</card>
+    <card qty="4" id="3b8b6383-53c8-4410-a7ce-5b02b0a86117">Drain Worm, the Parasite</card>
+    <card qty="4" id="879bb3cd-5bee-4bc0-890a-bbf445f6707e">Janeer, Parasite of Decay</card>
+    <card qty="2" id="f7e4152c-8303-4ec2-9949-3b7825a0e143">Samohan, Parasitic Battle Dragon</card>
+    <card qty="4" id="66ee3b9e-fdbf-41c2-9363-5327572706f2">Chaos Worm</card>
+    <card qty="4" id="2fcf61a1-9738-4777-9890-74e6d0c2347d">Super Trash Train, Fuuma Devil</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="bdd33588-cdca-41d8-86be-2e7d8d4f65b8">Death Chaser</card>
+    <card qty="4" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="4" id="45b480ca-cb25-4737-bc96-ad0b1a069419">Infernal Smash</card>
+    <card qty="2" id="8e10db1c-1445-45c0-b7d2-3b888ed87998">Trox, General of Destruction</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="cebd7488-cd36-40d7-8edf-8991a1faa04f">Zero Phoenix, Phoenix of Darkness</card>
+    <card qty="1" id="c592ca18-7f77-4d59-8dab-07c20d7e96b9">Crimson Rifle</card>
+    <card qty="2" id="1517dfbf-a672-4927-b584-59a99ab6983a">Wine Red Dragoon</card>
+    <card qty="2" id="dbc550d4-3479-4f83-bfcf-d3f8d377384e">Muramasa's Socket</card>
+    <card qty="3" id="bd13d634-13a2-4918-a05b-ab23103c71a9">Flameburn Dragon</card>
+    <card qty="2" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="4" id="39bbbbfe-f8b3-4809-ba9a-d9e0226a04bc">Vorg, Brawler of Hell</card>
+    <card qty="1" id="7b58e4ef-c2ae-41ff-b4d1-81c6ad1e7b12">Death March, Reaper Puppeteer</card>
+    <card qty="3" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="2" id="02b4fa1f-763e-40e5-8512-bb7d2ffa322a">Corpse Charger</card>
+    <card qty="3" id="9ec9cdec-1859-4dcd-996f-40580de59697">Dark Soul Creation</card>
+    <card qty="1" id="6de82fd6-d901-472e-ab66-0ab2b230174a">Darkness Southern</card>
+    <card qty="1" id="a1d49a6d-a114-4788-942f-a2a0edcfc471">Heavy, Dragon God</card>
+    <card qty="2" id="4d12e01b-43e8-417b-bce4-ed7bc8ab9ab8">Necrodragon Dobolzack</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="3" id="d66ffe0f-7024-4f31-9f5c-20a3670d71bf">Basoabisu, Abyss Demon Dragon</card>
+    <card qty="4" id="33a5699f-1c9d-4f64-9c93-db5035253e14">Poppo Juvira, Winged God-destroyer</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

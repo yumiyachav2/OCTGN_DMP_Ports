@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="1" id="9b01b8ac-7ab0-413d-9150-f6fdb9d54c1e">Death Monarch, Lord of Demons</card>
+    <card qty="1" id="8cfefeb3-bcbc-47cd-93d4-c56e8113918b">Fallen Monk of the Bloodstained Soil, Zahaku</card>
+    <card qty="2" id="b6a3f511-f271-49a4-afad-9da739c8dd72">Bangren, Ancient Arhat</card>
+    <card qty="1" id="28517606-488d-430f-a4a6-0a8f3fab7916">Dorberos, the Imprisoning Fiend</card>
+    <card qty="1" id="2811fe78-f4ab-4226-891a-f294f6fdca0e">Dulanzames, Jet-Black War Demon</card>
+    <card qty="2" id="d8148927-73b9-4f40-a90e-6369196c8579">Olzekia, General of Decapitation</card>
+    <card qty="1" id="836e40e5-9b07-49c5-b3e1-c986c31ac1d7">Ballom Emperor, Lord of Demons</card>
+    <card qty="1" id="f392782b-e02c-4110-957f-0878532ea1fe">XENOM, the Reaper King</card>
+    <card qty="4" id="11a51921-a34c-4cfc-93fb-55afb611e4ec">Deathraios, Cursed Blade Reaper</card>
+    <card qty="1" id="2fc35b98-bab3-4711-b944-a911a93dab29">Ballom Monarch, Lord of Dark Reapers</card>
+    <card qty="1" id="fab4495f-0c22-4fb1-af79-4d177925f4b1">Steiner, the Resurrecting Reaper</card>
+    <card qty="1" id="e1bf23ae-46ab-4274-8e0a-2af15d0d78db">Black Ganveet, Legion of Demise</card>
+    <card qty="1" id="5a6d10c0-e38d-40b3-ba22-b943c05fa22d">Gabriel XENOM, the Reaper King</card>
+    <card qty="2" id="28138166-cb3e-470b-9e53-afdc17cd3a72">Death Six, Ruthless Prince</card>
+    <card qty="3" id="d66ffe0f-7024-4f31-9f5c-20a3670d71bf">Basoabisu, Abyss Demon Dragon</card>
+    <card qty="3" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="4" id="1d45c24f-81b5-4a33-9881-1751735c6eb7">Zamaru, Treasure of Darkness</card>
+    <card qty="4" id="6de82fd6-d901-472e-ab66-0ab2b230174a">Darkness Southern</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="f3ded71d-3cf9-415b-a9d2-b759ca0ce07b">Bloody Squito</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

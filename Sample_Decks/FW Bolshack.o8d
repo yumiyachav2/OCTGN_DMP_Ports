@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="8b7fc29b-d79c-4b08-a88e-9d055d02c6e8">Cocco Lupia</card>
+    <card qty="4" id="57dd23c0-c4d1-4450-86d0-f0be6407fcbe">Mach Lupia</card>
+    <card qty="4" id="8c374db2-7b97-4205-a669-cda740d21176">Bolshack Yamato Dragon</card>
+    <card qty="4" id="8d0d154b-d53f-4bc4-9c8a-4d7c09074850">Bolshack NEX</card>
+    <card qty="2" id="4717faef-1065-4153-a509-854c22637e27">Bolmeteus Steel Dragon</card>
+    <card qty="4" id="6c562252-75d9-4723-8316-e3dc4a303e3d">Velyrika Dragon</card>
+    <card qty="2" id="f3f7f83e-daf8-4327-b963-6a4f13fd4d6c">Valkerios Dragon</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="4" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+    <card qty="4" id="ddf7ccd6-48e1-46f6-9800-367bf36ec29b">Emergency Typhoon</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

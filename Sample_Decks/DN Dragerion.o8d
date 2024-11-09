@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="510460f8-cfdc-49ea-a642-80797b312b2f">Supernova DEATH Dragerion</card>
+    <card qty="2" id="fab4495f-0c22-4fb1-af79-4d177925f4b1">Steiner, the Resurrecting Reaper</card>
+    <card qty="4" id="fbca9037-520b-442c-91df-ad4be323a5c0">Death Mendosa, Dragonic Baron of Death</card>
+    <card qty="4" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="2" id="f9810ff9-ae5e-41c5-a88d-4bf6324e1c7e">Cranium Clamp</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="3" id="ca6ab180-a919-4343-b92f-6e22ff3f0f72">Faerie Song</card>
+    <card qty="3" id="e6ba07cc-4127-4537-b66d-64b614e14efd">Triple Mouth, Decaying Savage</card>
+    <card qty="4" id="592faaeb-8783-4de5-89f0-c862a98a8f27">Princess Cub, the Free Wanderer</card>
+    <card qty="2" id="ca6ab179-a919-4343-b92f-6e22ff3f0f72">Titan Fang, Great Hero</card>
+    <card qty="4" id="6a926285-8835-43f3-8b3c-83a42df98978">Titan Giant</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

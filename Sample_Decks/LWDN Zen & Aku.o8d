@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="566ac39d-d9a0-49cb-96c4-8998662c34b6">Zen, Transcendent God</card>
+    <card qty="4" id="66187890-a25d-4cc7-8801-0894d230f57e">Aku, Ultimate God</card>
+    <card qty="2" id="a2be29db-97da-40bd-8ff2-9f5781e6af50">Saga, God of Destruction</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="f30403b3-75b0-4916-9d5e-5d21e0461326">Skysword, the Savage Vizier</card>
+    <card qty="4" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="3" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="3" id="be73e82d-6da3-41b2-9218-29c06ce8f8c9">Bloody Shadow, Mystic Light Death Knight</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="2" id="db6f40de-0d23-4a20-9a22-19c9aaa4cb04">Chief De Baula, Machine King of Mystic Light</card>
+    <card qty="2" id="792a2f9c-a1f8-46f5-b17f-79ed6a20b3ff">Triple Brain</card>
+    <card qty="2" id="7b95be5c-d378-4af4-98ce-dc18d2e3d172">Morbid Medicine</card>
+    <card qty="1" id="8ed1afbb-c05e-46c0-949b-7cc4b9bf7cee">Belix, the Explorer</card>
+    <card qty="1" id="d03798af-ba74-42ff-bab0-729a4f93e5ae">Peru Pere, Viral Guardian</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

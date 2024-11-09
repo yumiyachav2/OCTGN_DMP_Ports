@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="2" id="28517606-488d-430f-a4a6-0a8f3fab7916">Dorberos, the Imprisoning Fiend</card>
+    <card qty="4" id="b6a3f511-f271-49a4-afad-9da739c8dd72">Bangren, Ancient Arhat</card>
+    <card qty="2" id="8813d7a1-158b-42c3-b5df-8dc4edcdcd22">Balhols, Demonic Elemental</card>
+    <card qty="3" id="cba7ac02-9982-4865-8d37-64e95e7b610e">Dorballom, Lord of Demons</card>
+    <card qty="2" id="02b4fa1f-763e-40e5-8512-bb7d2ffa322a">Corpse Charger</card>
+    <card qty="3" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="2" id="4fcf61a1-9738-4777-9890-74e6d0c2347d">Super Trash Train, Fuuma Devil</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="3" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="2" id="6e381955-231b-4e4e-a14c-82509a5e193c">Rumbling Terahorn</card>
+    <card qty="2" id="e6ba07cc-4127-4537-b66d-64b614e14efd">Triple Mouth, Decaying Savage</card>
+    <card qty="4" id="f30403b3-75b0-4916-9d5e-5d21e0461326">Skysword, the Savage Vizier</card>
+    <card qty="4" id="8ed1afbb-c05e-46c0-949b-7cc4b9bf7cee">Belix, the Explorer</card>
+    <card qty="2" id="0ec572b0-ffaf-4abd-a540-ba26c98aacc5">Holy Awe</card>
+    <card qty="2" id="6a909066-2011-4de7-9a97-cab333dca4cf">Mist Rias, Sonic Guardian</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

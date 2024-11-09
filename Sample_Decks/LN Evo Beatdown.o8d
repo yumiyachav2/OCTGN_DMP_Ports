@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="4f558ac0-afe1-4016-9e64-f1e0e1797c69">Lion Third, Holy Emperor</card>
+    <card qty="4" id="777d2f2d-a3a1-4b9e-beaf-021e86787343">Ida, the Great Enigma</card>
+    <card qty="4" id="02110ddd-6fd5-4d62-a3a3-991483e35a4f">Victor Unigorn, Amazing Artiste</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="35af9f49-e3cd-437d-b779-b51cd5d3129a">Valcha, the Guardian Spirit Knight</card>
+    <card qty="4" id="ad428b55-4b0b-4a63-b48b-dfc1541b8b81">Sanfist, the Savage Vizier</card>
+    <card qty="4" id="330fbabf-b125-41b1-a7cb-177be8217936">Erus Elixion, Dyed Sky Guardian</card>
+    <card qty="4" id="749d1209-4847-4401-8d70-8c95fd26c220">Magris, Vizier of Magnetism</card>
+    <card qty="4" id="6dfdd98c-da99-4a5d-9595-51430026d97d">Faerie Life</card>
+    <card qty="4" id="eb2efde5-37b9-435b-971f-ac5648b9ba05">Super Spark</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

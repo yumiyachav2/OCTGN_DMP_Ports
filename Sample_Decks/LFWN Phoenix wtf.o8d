@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="39ea2161-ea49-4ff1-9575-fb09a07eedc9">The Universe Gate</card>
+    <card qty="2" id="3f6ba45d-e9ee-4933-b723-8639cf4604f0">Mr. Aesop, Mystical Meteor</card>
+    <card qty="1" id="5514e33b-d5cf-49c7-acd0-36ed5f42557b">Shabada Badou, JK Holy Nova</card>
+    <card qty="3" id="95532e89-7b06-49fd-96c1-9bb71e74413e">Kirin Legacy, the Twin Meteor</card>
+    <card qty="4" id="605d1df4-4011-44a2-b120-fb7f2ef17792">Soul Calling</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="6dfdd98c-da99-4a5d-9595-51430026d97d">Faerie Life</card>
+    <card qty="3" id="792a2f9c-a1f8-46f5-b17f-79ed6a20b3ff">Triple Brain</card>
+    <card qty="3" id="62181e03-caa5-494d-b054-378d7285fb81">Balphalt, Spirit Meteor</card>
+    <card qty="3" id="f30403b3-75b0-4916-9d5e-5d21e0461326">Skysword, the Savage Vizier</card>
+    <card qty="1" id="cac388c9-dbda-4ca5-8b6e-48793eb15e9c">Splash Axe, the Aqua Savage</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="4" id="db3a1efc-0419-4102-b486-4360a3e44f67">Romanesk, the Dragon Wizard</card>
+    <card qty="2" id="d2a8dfb9-56e7-45e1-9a63-e1d6c5cc86d9">Keen, the Mobile Sage</card>
+    <card qty="2" id="86ef206b-1183-4cf9-97bb-fe4ab50a9674">Tyranno Link Nova</card>
+    <card qty="2" id="8ed1afbb-c05e-46c0-949b-7cc4b9bf7cee">Belix, the Explorer</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

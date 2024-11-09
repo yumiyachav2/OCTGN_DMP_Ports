@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="771b4211-b8e1-46f3-9dd8-65303dc52c2f">Blues Quack</card>
+    <card qty="4" id="7adb7cf9-18ad-4636-92ad-33cb509486b2">Pildol, Bird of Fire</card>
+    <card qty="4" id="f63d041c-e752-4f5c-a3ab-80f45241b249">Kooc Pollon</card>
+    <card qty="4" id="72ccb5de-a2f3-4556-b810-1da74dac97de">Lyla Latta</card>
+    <card qty="4" id="d7719cec-41b5-4365-b77f-14423064cf7a">Raven, Flying Mythical Beast</card>
+    <card qty="4" id="db336afb-bf75-42f4-bb7e-70d09eb3b2f7">Kagekiri, Bird of Fire</card>
+    <card qty="2" id="6e5abdfc-f156-4257-88ed-105b02e1145a">Piara Heart</card>
+    <card qty="4" id="479b477f-f535-4564-ac0c-5f0aeaafe914">Baby Zoppe</card>
+    <card qty="2" id="50a73de2-1c62-4352-94e2-a4d909e02c33">Boleas, Bird of Fire</card>
+    <card qty="4" id="5df2d853-3737-48a1-9844-a14565e0fb02">Lyla Aini</card>
+    <card qty="4" id="0a5600c5-65a0-439d-b19c-4bf5ee036e32">Volcanic Arrows</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

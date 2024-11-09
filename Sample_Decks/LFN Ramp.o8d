@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="6dfdd98c-da99-4a5d-9595-51430026d97d">Faerie Life</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="f30403b3-75b0-4916-9d5e-5d21e0461326">Skysword, the Savage Vizier</card>
+    <card qty="4" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="3" id="ed7c70ff-90e7-4741-9429-d24822ac24a1">Auravine, Earth's Grasp</card>
+    <card qty="3" id="cfcd4201-ea9a-4b6b-9793-70ab4b4a48de">Spell Del Fin, Light Divine Dragon</card>
+    <card qty="3" id="3f82c55e-5b71-4202-bf74-b4299614d32e">Bolmeteus Sapphire Dragon</card>
+    <card qty="3" id="b67a1028-26c1-4dae-be91-94c8e64ae302">Bolshack Cross NEX</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="a223784e-227b-4412-b797-c2f43ffb5d20">Osso Leone, Scare Spirit</card>
+    <card qty="2" id="eb2efde5-37b9-435b-971f-ac5648b9ba05">Super Spark</card>
+    <card qty="2" id="6f6a47c9-5d86-4344-b92d-4a481e598fbb">Pikarie, Radiance Elemental</card>
+    <card qty="2" id="6e44a03e-672e-4959-8f1b-f0e59174e5a2">Super Burst Shot</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

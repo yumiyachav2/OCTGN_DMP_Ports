@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="701500bb-7ade-4d3d-9938-8367fa3a71bd">Quixotic Hero Swine Snout</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="8a39cfb1-2a5a-41c7-a2fc-75b197e12f44">Bronze Chain Sickle</card>
+    <card qty="4" id="bbd6fa0d-3e2b-4aa4-8f64-9ad401a6ab9e">Get Wild</card>
+    <card qty="4" id="ca6ab180-a919-4343-b92f-6e22ff3f0f72">Faerie Song</card>
+    <card qty="4" id="592faaeb-8783-4de5-89f0-c862a98a8f27">Princess Cub, the Free Wanderer</card>
+    <card qty="4" id="012892f0-2316-4fa6-83eb-3ff5cbf928e6">Bultratops, Leaf Wind Kind</card>
+    <card qty="2" id="ed7c70ff-90e7-4741-9429-d24822ac24a1">Auravine, Earth's Grasp</card>
+    <card qty="2" id="bb339fe8-3e63-4657-8c5d-d2386c22ff38">Cryptic Totem</card>
+    <card qty="4" id="ca6ab179-a919-4343-b92f-6e22ff3f0f72">Titan Fang, Great Hero</card>
+    <card qty="4" id="6a926285-8835-43f3-8b3c-83a42df98978">Titan Giant</card>
+    <card qty="4" id="777d2f2d-a3a1-4b9e-beaf-021e86787343">Ida, the Great Enigma</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

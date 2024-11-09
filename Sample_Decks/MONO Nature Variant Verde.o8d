@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="fdf04e83-78d4-43cb-ba88-cb69fe2d27df">Super Terradragon Variant Vades</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="6e381955-231b-4e4e-a14b-82509a5e193b">Rumbling Terahorn</card>
+    <card qty="2" id="62e66c51-0025-4b72-87e0-6534fe082422">Faerie Gift</card>
+    <card qty="2" id="86da0701-78a6-45d6-8d7c-89c3f5227a69">Terradragon Diruga Vejida</card>
+    <card qty="4" id="ed7c70ff-90e7-4741-9429-d24822ac24a1">Auravine, Earth's Grasp</card>
+    <card qty="4" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="4" id="71747845-55ec-4f5e-bef7-df3a9f56bbcf">Murmur, Vizier of Formation</card>
+    <card qty="4" id="a8e806e4-9675-49c1-b4c1-4c9ab2fa789e">Pala Olesis, Morning Guardian</card>
+    <card qty="4" id="f30403b3-75b0-4916-9d5e-5d21e0461326">Skysword, the Savage Vizier</card>
+    <card qty="4" id="0ec572b0-ffaf-4abd-a540-ba26c98aacc5">Holy Awe</card>
+    <card qty="2" id="cfcd4201-ea9a-4b6b-9793-70ab4b4a48de">Spell Del Fin, Light Divine Dragon</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="653955bf-bb79-4093-83ca-714d2aba9614">Heaven's Gate</card>
+    <card qty="4" id="c8df4bed-3afc-47eb-8549-da5387dd51b0">Asteria, Heaven's Blessing Elemental</card>
+    <card qty="4" id="8813d7a1-158b-42c3-b5df-8dc4edcdcd22">Balhols, Demonic Elemental</card>
+    <card qty="3" id="57b5a157-2ccc-40a7-b8d4-b1b738071562">Laveil, Seeker of Catastrophe</card>
+    <card qty="3" id="81e05a20-875a-4047-af47-9850dac9a863">Syforce, Aurora Elemental</card>
+    <card qty="4" id="a8e806e4-9675-49c1-b4c1-4c9ab2fa789d">Pala Olesis, Morning Guardian</card>
+    <card qty="4" id="03001a9c-19f4-48e3-8812-4f5eb34c39cb">Sol Galla, Halo Guardian</card>
+    <card qty="4" id="afa724a7-6a5e-425d-984c-b1a977b0c7f8">Screaming Sunburst</card>
+    <card qty="2" id="6a909066-2011-4de7-9a97-cab333dca4cf">Mist Rias, Sonic Guardian</card>
+    <card qty="4" id="2419df7e-24c2-49b3-95b1-97c5ea197241">Bega, Vizier of Shadow</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="0ec572b0-ffaf-4abd-a540-ba26c98aacc5">Holy Awe</card>
+    <card qty="3" id="4d576949-1cc9-4fd3-8c6f-3ee7e223a15a">Alphadios, Lord of Spirits</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="2" id="cfcd4201-ea9a-4b6b-9793-70ab4b4a48de">Spell Del Fin, Light Divine Dragon</card>
+    <card qty="4" id="0f454bf9-e2fe-47ee-a894-9c7a14361541">Seventh, Light Divine Dragon</card>
+    <card qty="4" id="db3a1efc-0419-4102-b486-4360a3e44f67">Romanesk, the Dragon Wizard</card>
+    <card qty="4" id="8d0d154b-d53f-4bc4-9c8a-4d7c09074850">Bolshack NEX</card>
+    <card qty="2" id="bd13d634-13a2-4918-a05b-ab23103c71a9">Flameburn Dragon</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="8b7fc29b-d79c-4b08-a88e-9d055d02c6e8">Cocco Lupia</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="2" id="ca73d533-e6b1-42e4-a1d4-23f9f3428d74">Uberdragon Valkyrias</card>
+    <card qty="2" id="28c84de7-5a48-4fb8-bb72-c5623a23a563">Jack Raidou, Battle Dragon</card>
+    <card qty="2" id="919f8f06-855a-463f-9317-3623eec87ff6">Uberdragon Rasetsu</card>
+    <card qty="2" id="b78076a1-eecf-4cc1-9bbc-009b90930edf">Super Dragon Machine Dolzark</card>
+    <card qty="2" id="3f82c55e-5b71-4202-bf74-b4299614d32e">Bolmeteus Sapphire Dragon</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

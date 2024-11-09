@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="5696964c-c959-4d79-af03-e1c5ccc1678f">Dreaming Moon Knife</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="3" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="3" id="0dca6f6c-c426-4c88-b283-043527f04bb3">Fighter Dual Fang</card>
+    <card qty="4" id="0d9e7ee6-0694-442d-8d9f-eadb52dea802">Aqua Belala</card>
+    <card qty="2" id="d0356010-f40d-465f-893c-4bc29ee56008">Aqua Super Emeral</card>
+    <card qty="4" id="57eeb3c3-2561-4841-a381-2e50d17533d1">Aqua Hulcus</card>
+    <card qty="4" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+    <card qty="3" id="ea4b7a28-d6de-45f1-ad12-df4ce3af2c54">Crystal Zweilancer</card>
+    <card qty="2" id="6a909066-2011-4de7-9a97-cab333dca4cf">Mist Rias, Sonic Guardian</card>
+    <card qty="4" id="0ec572b0-ffaf-4abd-a540-ba26c98aacc5">Holy Awe</card>
+    <card qty="1" id="ef6d1314-1005-4b5d-9afe-827ffe3ba58a">Aqua Skydiver</card>
+    <card qty="2" id="cac388c9-dbda-4ca5-8b6e-48793eb15e9c">Splash Axe, the Aqua Savage</card>
+    <card qty="4" id="f30403b3-75b0-4916-9d5e-5d21e0461326">Skysword, the Savage Vizier</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

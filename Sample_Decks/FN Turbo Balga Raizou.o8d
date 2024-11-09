@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="b192e22e-01ac-4240-b1ec-ca6b312e138c">Balga Raizou, the Super-Heavenly Nova</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="579dbde2-15fe-40c1-b620-606c17387e1f">Lifeplan Charger</card>
+    <card qty="4" id="37b495e5-c4c7-4e71-af86-bf1119effeb3">Bronzezaurus, Bronzekind</card>
+    <card qty="4" id="012892f0-2316-4fa6-83eb-3ff5cbf928e6">Bultratops, Leaf Wind Kind</card>
+    <card qty="4" id="b78076a1-eecf-4cc1-9bbc-009b90930edf">Super Dragon Machine Dolzark</card>
+    <card qty="4" id="c788e651-c786-4634-9dcb-c8d01d35126c">Bomber Doll</card>
+    <card qty="4" id="bd13d634-13a2-4918-a05b-ab23103c71a9">Flameburn Dragon</card>
+    <card qty="4" id="3329896f-f122-4fa5-970b-d75ea9c0fa78">Spiritual Star Dragon</card>
+    <card qty="4" id="192a4b5d-48c6-4ded-9795-adcf15d797c7">Balga Raiser, the Dragonic Meteor</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

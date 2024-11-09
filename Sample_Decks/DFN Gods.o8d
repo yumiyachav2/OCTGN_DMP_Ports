@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="57bee026-fae0-4bdf-b55a-be70d7a6dc9d">Dark Indora, God of Darkness</card>
+    <card qty="4" id="eb8d3c08-a6e3-4694-8d2a-b1bd05da2065">Emerald Pharaoh, Earth God</card>
+    <card qty="4" id="88e06310-e6d6-459e-bd42-d3f521bc7bed">Flame Agon, God of Flames</card>
+    <card qty="4" id="45b480ca-cb25-4737-bc96-ad0b1a069419">Infernal Smash</card>
+    <card qty="4" id="2fcf61a1-9738-4777-9890-74e6d0c2347d">Super Trash Train, Fuuma Devil</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="e462e5ef-26fc-400c-9d7c-3eda5fc5e954">Fuuma Bajir, Soul Weapon</card>
+    <card qty="2" id="4b715b5c-2e82-4686-9c9f-4ce1e5503621">Burst Shot</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="3" id="62e66c51-0025-4b72-87e0-6534fe082422">Faerie Gift</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="3" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

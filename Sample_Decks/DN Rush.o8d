@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="4916f651-6169-4e8b-be5d-6a3237dc0a70">Marrow Ooze, the Twister</card>
+    <card qty="4" id="7b58e4ef-c2ae-41ff-b4d1-81c6ad1e7b12">Death March, Reaper Puppeteer</card>
+    <card qty="4" id="0da804ea-69ea-4531-bef0-e4de5c96e1d8">Kodamanma, All-Devouring Doll</card>
+    <card qty="3" id="bad66e34-cb0c-4a55-9997-f565b17d6990">Fuuma Vines</card>
+    <card qty="2" id="99791f19-21ee-4ee3-a6b0-e26702c2a380">Critical Blade</card>
+    <card qty="4" id="8dab06d5-93c3-4ac7-abfb-3ce2e63d77e5">Sniper Mosquito</card>
+    <card qty="4" id="2967d4cc-b4da-4511-b9e7-95b4844216f9">Hearty Cap'n Polligon</card>
+    <card qty="4" id="f23acf84-3725-46fd-9bfc-318ab9f35429">Dandy Eggplant</card>
+    <card qty="3" id="0c9a1dc5-bb6e-4176-9f49-04e6c4f82b4a">Worm Gowarski, Masked Insect</card>
+    <card qty="4" id="5bcab12f-5a17-4ade-b938-1c08a6290047">Spinning Terror, the Wretched</card>
+    <card qty="4" id="701500bb-7ade-4d3d-9938-8367fa3a71bd">Quixotic Hero Swine Snout</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

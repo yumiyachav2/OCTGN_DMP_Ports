@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="b6eb0d69-162e-400d-be54-89189ec789a0">Elupheus, Lord of Spirits</card>
+    <card qty="4" id="e1a87351-4613-4499-a9e8-abbc683821cb">Ultimus, Divine Law Elemental</card>
+    <card qty="4" id="5b7403c8-abb9-4e85-bc74-3b69900594dc">Leonidas, White Knight Elemental</card>
+    <card qty="4" id="340a6c09-d778-4c3c-881f-13b75960ae0d">Auzesu, Demonic Elemental</card>
+    <card qty="4" id="2fcf61a1-9738-4777-9890-74e6d0c2347d">Super Trash Train, Fuuma Devil</card>
+    <card qty="4" id="a8e806e4-9675-49c1-b4c1-4c9ab2fa789d">Pala Olesis, Morning Guardian</card>
+    <card qty="4" id="0ec572b0-ffaf-4abd-a540-ba26c98aacc5">Holy Awe</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="03001a9c-19f4-48e3-8812-4f5eb34c39cb">Sol Galla, Halo Guardian</card>
+    <card qty="2" id="f0bb0b2d-e393-4cb7-8c6d-34476811f530">Time Tripper, Shadow of Stagnation</card>
+    <card qty="2" id="afa724a7-6a5e-425d-984c-b1a977b0c7f8">Screaming Sunburst</card>
+    <card qty="2" id="7d4b64b0-1672-47d4-b54d-1758b0bb08cf">Alcadeias, Lord of Spirits</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

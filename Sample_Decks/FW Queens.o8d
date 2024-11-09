@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="6c807ef1-b1a4-4fe0-960b-97f6da1bb7a8">Royal Adonis</card>
+    <card qty="3" id="c06f975c-3b25-4296-8890-edca5339a0ec">Malibu Dancer</card>
+    <card qty="3" id="b1fa464d-04fb-413f-ab2e-de1d4414e1d7">Antoinette, Beautiful Battle Dragon Princess</card>
+    <card qty="4" id="5453db88-d3ea-43fe-9186-523dd6f86c11">Admiral Queen</card>
+    <card qty="2" id="d031c833-da73-42a0-af4a-cd2a8ce9af6d">Volcano Charger</card>
+    <card qty="2" id="7d87dcf1-468f-49cc-a5ee-dbdc533a96cc">Eureka Charger</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="3" id="24ec4b9d-1839-4a0f-9ebf-f5340bfc523a">Spiral Gate</card>
+    <card qty="3" id="69ba671e-80f5-404d-bcc9-c828c53918d7">Judgement of the Flame's Spear and the Water's Blade</card>
+    <card qty="4" id="4717faef-1065-4153-a509-854c22637e27">Bolmeteus Steel Dragon</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="4" id="ddf7ccd6-48e1-46f6-9800-367bf36ec29b">Emergency Typhoon</card>
+    <card qty="1" id="b65baba7-3edd-41ca-83c7-aea64025c777">Thrash Crawler</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>
