@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="f23e873f-fdef-4d9c-a02d-d9b457be005f">Adge, Emperor of the Gods</card>
+    <card qty="4" id="31eeea28-0fed-4a96-b83a-478c3edf1071">Ana, Emperor of the Gods</card>
+    <card qty="4" id="c5ff0086-d642-44ff-be5d-1288b81f52ff">Mani, Emperor of the Gods</card>
+    <card qty="4" id="fa945b05-2a4d-43a5-a8ad-3751a55ec4d7">Moora, Emperor of the Gods</card>
+    <card qty="4" id="ddf7ccd6-48e1-46f6-9800-367bf36ec29b">Emergency Typhoon</card>
+    <card qty="4" id="c06f975c-3b25-4296-8890-edca5339a0ec">Malibu Dancer</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="4" id="f8edfbcb-32ec-401f-afa7-81e254a3aa21">Beautician, Viral Lord of Fear</card>
+    <card qty="4" id="45b480ca-cb25-4737-bc96-ad0b1a069419">Infernal Smash</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

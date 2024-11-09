@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="41b82092-4d34-4b3c-934a-d7bd4fca654a">Garabon, the Glider</card>
+    <card qty="4" id="6a668bef-98c8-4b55-9412-414f25e914e9">Diamondia, the Blizzard Rider</card>
+    <card qty="4" id="2967d4cc-b4da-4511-b9e7-95b4844216f9">Hearty Cap'n Polligon</card>
+    <card qty="4" id="aab6f47c-c1f6-4734-bc52-bdd2778fa650">Pocopen, Counterattacking Faerie</card>
+    <card qty="4" id="ed3931f2-2b60-48d4-b82f-361d3a8c5bd7">Essence Elf</card>
+    <card qty="4" id="701500bb-7ade-4d3d-9938-8367fa3a71bd">Quixotic Hero Swine Snout</card>
+    <card qty="4" id="c8e8db62-117a-42ba-a701-876f4c7a2760">Faerie Life</card>
+    <card qty="4" id="ccf7ccd6-48e1-46f6-9800-367bf36ec29b">Emergency Typhoon</card>
+    <card qty="4" id="be80f0e8-05b7-4914-916a-f24d5e616ea8">Spiral Gate</card>
+    <card qty="4" id="57eeb3c3-2561-4841-a381-2e50d17533d1">Aqua Hulcus</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

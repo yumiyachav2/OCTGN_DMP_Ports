@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="1f2d0943-4cc8-493f-95b4-effc7f5cb801">Rose Castle</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="3" id="b5327cec-d0ee-4243-9313-db4309b37e38">Romanov the 1st, Lord of the Demonic Eye</card>
+    <card qty="1" id="7b95be5c-d378-4af4-98ce-dc18d2e3d172">Morbid Medicine</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="4" id="f8edfbcb-32ec-401f-afa7-81e254a3aa21">Beautician, Viral Lord of Fear</card>
+    <card qty="2" id="24ec4b9d-1839-4a0f-9ebf-f5340bfc523a">Spiral Gate</card>
+    <card qty="2" id="d7d3f9dd-ed61-43cd-ad30-a9beb4a60c94">Fuuma Bagantis</card>
+    <card qty="2" id="b65baba7-3edd-41ca-83c7-aea64025c777">Thrash Crawler</card>
+    <card qty="2" id="69ba671e-80f5-404d-bcc9-c828c53918d7">Judgement of the Flame's Spear and the Water's Blade</card>
+    <card qty="3" id="d031c833-da73-42a0-af4a-cd2a8ce9af6d">Volcano Charger</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="3" id="ba3dd7e8-dea9-407b-98b3-0df6cd18a97a">Gulan Berze, Poseidon Destroying Dragon</card>
+    <card qty="2" id="162d8f58-44bd-43f7-947a-9a192f8d1734">Dorvolan, Striking Dragon Rider</card>
+    <card qty="2" id="83f62c81-9474-4cb0-b67d-891f469faac7">Final Answer</card>
+    <card qty="2" id="d8148927-73b9-4f40-a90e-6369196c8579">Olzekia, General of Decapitation</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

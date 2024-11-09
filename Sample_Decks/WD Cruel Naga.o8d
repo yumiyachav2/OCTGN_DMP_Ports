@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="23475e43-4cbd-4054-a90d-fde230a28db3">Cruel Naga, Avatar of Fate</card>
+    <card qty="2" id="8b619595-3387-4859-b938-37969ac32562">Fist Blader</card>
+    <card qty="3" id="854a1e8c-cebb-4d19-b22c-d40fa3761bf1">Sea Mutant Dormel</card>
+    <card qty="4" id="b0261b73-75f4-4556-9dbe-ed3a88e9d302">Jaws Pirate</card>
+    <card qty="2" id="a1e3713b-21f2-4fff-adf0-1bdabf4292d1">Gigaslug</card>
+    <card qty="2" id="f64abfbf-dfea-4ae6-b45f-a27138203460">Gigajiras</card>
+    <card qty="4" id="2f6d65f6-6ec7-4ee5-8c8f-732938b8eeb6">Gigabalza</card>
+    <card qty="2" id="5ead68c2-dce0-4e8e-b718-02f2cce5dfa0">Gigarayze</card>
+    <card qty="4" id="2072f6de-c78c-492c-b026-4d94b148e8a2">Hide and Seek</card>
+    <card qty="3" id="f8edfbcb-32ec-401f-afa7-81e254a3aa21">Beautician, Viral Lord of Fear</card>
+    <card qty="3" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="f9810ff9-ae5e-41c5-a88d-4bf6324e1c7e">Cranium Clamp</card>
+    <card qty="1" id="b2b79176-cb16-477e-872c-40493a56ea3c">Bilgias, Hardened Demon of Hellfire</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

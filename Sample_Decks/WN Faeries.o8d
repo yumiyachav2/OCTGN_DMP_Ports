@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="2967d4cc-b4da-4511-b9e7-95b4844216f9">Hearty Cap'n Polligon</card>
+    <card qty="4" id="aab6f47c-c1f6-4734-bc52-bdd2778fa650">Pocopen, Counterattacking Faerie</card>
+    <card qty="4" id="20a35f36-5cab-4b1f-a353-ab7c8b42f1f5">Shaman Melissa, Melting Snow Fairy</card>
+    <card qty="4" id="03460d4f-a9b1-4d75-b2b0-b87806bb941d">Peach Princess, Fearless Faerie</card>
+    <card qty="3" id="6a668bef-98c8-4b55-9412-414f25e914e9">Diamondia, the Blizzard Rider</card>
+    <card qty="3" id="777d2f2d-a3a1-4b9e-beaf-021e86787343">Ida, the Great Enigma</card>
+    <card qty="2" id="b6a62cdb-ff27-4e86-ae96-51f91d7f171a">Diamond Fall</card>
+    <card qty="4" id="5b1916a1-7344-4f12-9128-b51bbf80060c">Cobalt Hulcus, Aqua Savage</card>
+    <card qty="4" id="57eeb3c3-2561-4841-a381-2e50d17533d1">Aqua Hulcus</card>
+    <card qty="1" id="0d9e7ee6-0694-442d-8d9f-eadb52dea802">Aqua Belala</card>
+    <card qty="4" id="24ec4b9d-1839-4a0f-9ebf-f5340bfc523a">Spiral Gate</card>
+    <card qty="3" id="c9b98336-312d-4d08-8add-6b820a88815f">Unicorn Fish</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

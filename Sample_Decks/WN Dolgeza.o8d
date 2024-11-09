@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="cbdaad81-a4e5-473d-a960-56f705af62a9">Dolgeza, Strong Striker</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="4" id="bc201e9d-bb29-4754-9757-f988b80c1918">Kirino Giant</card>
+    <card qty="4" id="e24ae89e-cfba-47f6-ac56-130f4f135864">Awakening Giant</card>
+    <card qty="2" id="d428e303-edac-4259-a090-67752bd83a40">Kishima Giant</card>
+    <card qty="3" id="6a926285-8835-43f3-8b3c-83a42df98978">Titan Giant</card>
+    <card qty="2" id="d13df996-4847-4580-9873-98d4e2393589">Asura, the Great Enigma</card>
+    <card qty="1" id="23705a63-4d97-4986-9a8c-f2f01befbdbd">Hannya, the Great Enigma</card>
+    <card qty="2" id="ddf7ccd6-48e1-46f6-9800-367bf36ec29b">Emergency Typhoon</card>
+    <card qty="2" id="b65baba7-3edd-41ca-83c7-aea64025c777">Thrash Crawler</card>
+    <card qty="4" id="b11bd791-18b3-4927-a45c-3c52e3a568a0">Space Crawler</card>
+    <card qty="2" id="f29f0fb6-dcd2-46f0-9c4f-edf95eb4e55b">Hulk Crawler</card>
+    <card qty="4" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+    <card qty="2" id="56f29c76-e530-487a-89b7-94d773c56da5">Baiken, Blue Dragon of the Hidden Blade</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

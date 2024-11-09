@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="ddf7ccd6-48e1-46f6-9800-367bf36ec29b">Emergency Typhoon</card>
+    <card qty="2" id="4d673cdd-64e4-47fd-bcb8-a27456c97da2">Veil Babylonia, Blue Divine Dragon</card>
+    <card qty="2" id="1a705d1a-f71b-415d-b801-44e9fcdadf76">Cyber A Irons</card>
+    <card qty="2" id="f8edfbcb-32ec-401f-afa7-81e254a3aa21">Beautician, Viral Lord of Fear</card>
+    <card qty="4" id="fdf6bf32-9b42-42e7-8a45-38cbb9823f4c">Atsuto, Duel Hero Strategist</card>
+    <card qty="2" id="e5b3742a-12f0-475f-aec4-5e07c930945c">Chemical, God of Sublimity</card>
+    <card qty="2" id="f9810ff9-ae5e-41c5-a88d-4bf6324e1c7e">Cranium Clamp</card>
+    <card qty="4" id="704e926a-03c3-4130-911c-bf1a4a6461ac">Inferno Gate</card>
+    <card qty="3" id="595c6576-d9c8-4947-aa2e-519dc41b5b82">Inferno Sign</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="3" id="047f666f-35e0-41af-a8af-7d2b3618b793">Dark Hydra, Evil Planet Lord</card>
+    <card qty="3" id="fbca9037-520b-442c-91df-ad4be323a5c0">Death Mendosa, Dragonic Baron of Death</card>
+    <card qty="3" id="40524def-2b86-4e2e-a245-887d2c7ae029">Yata Izuna, Eight-Headed Parasite</card>
+    <card qty="1" id="710e3158-5264-413f-bacd-da3b47be1c42">Varz Romanov, Dark Lord of Demons</card>
+    <card qty="3" id="5c117d1a-cb60-4064-84db-f82089086105">King Balcry, Demonic Eye Lord</card>
+    <card qty="2" id="dbdbad44-6a62-4eff-b8f1-95f56588a13a">Vampire Silphy</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

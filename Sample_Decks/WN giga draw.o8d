@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="3" id="b58c5c0d-d358-4c10-bfc7-fe5735113ecf">Astral Tempest</card>
+    <card qty="4" id="62c85ad7-20c5-4eb0-8b9e-58c4266139f1">Astral Reef</card>
+    <card qty="4" id="d03a8283-6c9b-4a0c-aec7-41d44a6f2fcf">Grape Globbo</card>
+    <card qty="2" id="3ea31906-ae2d-4906-acf9-0f3ff7478e96">Tempest Baby</card>
+    <card qty="4" id="3f331274-f5f8-42e7-9f28-ce637add34d4">Marine Flower</card>
+    <card qty="4" id="24ec4b9d-1839-4a0f-9ebf-f5340bfc523a">Spiral Gate</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="2" id="cac388c9-dbda-4ca5-8b6e-48793eb15e9c">Splash Axe, the Aqua Savage</card>
+    <card qty="3" id="7d87dcf1-468f-49cc-a5ee-dbdc533a96cc">Eureka Charger</card>
+    <card qty="2" id="a3331db6-d3c2-4b3f-9fcc-f4aa9fc2bb52">Teleportation</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="3" id="bb339fe8-3e63-4657-8c5d-d2386c22ff38">Cryptic Totem</card>
+    <card qty="2" id="c06f975c-3b25-4296-8890-edca5339a0ec">Malibu Dancer</card>
+    <card qty="1" id="117765de-dbde-45ae-941d-2b864421ba4c">King Tsunami</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

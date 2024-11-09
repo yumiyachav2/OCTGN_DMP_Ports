@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="a8e4a4b7-ad0b-4e07-b299-330ebb4cbdd4">Geki, Dragon Ultimate God</card>
+    <card qty="4" id="6764f931-1a39-40ff-9f1b-f1b7d6a77b9e">Metsu, Dragon Ultimate God</card>
+    <card qty="4" id="b4fcc648-df01-4ae5-8bd9-46c27a81b83a">Jenny, the Dismantling Puppet</card>
+    <card qty="2" id="0b7d42b9-5b4d-4566-ba41-2eb26a42f8e6">Locomotiver</card>
+    <card qty="4" id="83a5d2e5-9a05-4c86-9623-048a0bc8a566">Hell's Scrapper</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+    <card qty="2" id="d031c833-da73-42a0-af4a-cd2a8ce9af6d">Volcano Charger</card>
+    <card qty="4" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="3" id="69ba671e-80f5-404d-bcc9-c828c53918d7">Judgement of the Flame's Spear and the Water's Blade</card>
+    <card qty="4" id="b11bd791-18b3-4927-a45c-3c52e3a568a0">Space Crawler</card>
+    <card qty="2" id="bd320de6-619f-4bdd-8a4e-b35e29f82a34">Project God</card>
+    <card qty="2" id="1f2d0943-4cc8-493f-95b4-effc7f5cb801">Rose Castle</card>
+    <card qty="1" id="9af2cf5e-0937-4b5a-a098-4bb3d3eb3c20">Pulpy Goobie</card>
+    <card qty="2" id="24ec4b9d-1839-4a0f-9ebf-f5340bfc523a">Spiral Gate</card>
+    <card qty="2" id="7b95be5c-d378-4af4-98ce-dc18d2e3d172">Morbid Medicine</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

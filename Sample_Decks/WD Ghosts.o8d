@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="2" id="edb47886-0edd-4aeb-867b-f4d71bb626dd">Frost Specter, Shadow of Age</card>
+    <card qty="3" id="ddf61f9a-752d-4072-a497-7ed8b14ca8ce">Zero Nemesis, Shadow of Panic</card>
+    <card qty="3" id="5006e5ef-2b00-434e-94ae-9d992d0df5c1">Lone Tear, Shadow of Solitude</card>
+    <card qty="3" id="da93d9d0-b569-408d-af93-b4a4286fc91f">Bat Doctor, Shadow of Undeath</card>
+    <card qty="3" id="f0bb0b2d-e393-4cb7-8c6d-34476811f530">Time Tripper, Shadow of Stagnation</card>
+    <card qty="4" id="1b403f4e-ba6c-4796-9173-bf2146c14a28">Western Barrel, Shadow of Riots</card>
+    <card qty="2" id="da8d62d3-47b9-450e-961c-9bcc171ff0ee">Shadow Moon, Cursed Shade</card>
+    <card qty="1" id="a5feba11-ce85-4283-893a-1cd2bec0afcc">Death Circle, the Explosive Shadow</card>
+    <card qty="4" id="ddccdc18-92ef-431e-913e-71ba5bb6b1b1">Melnia, the Aqua Shadow</card>
+    <card qty="3" id="b7f236fd-e7eb-41cc-912a-5239c134f265">Energy Stream</card>
+    <card qty="2" id="c9b98336-312d-4d08-8add-6b820a88815f">Unicorn Fish</card>
+    <card qty="4" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+    <card qty="2" id="7b95be5c-d378-4af4-98ce-dc18d2e3d172">Morbid Medicine</card>
+    <card qty="4" id="5883180e-d88c-4f24-b17c-f5a837420147">Terror Pit</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

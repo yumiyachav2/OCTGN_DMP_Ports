@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="d96cdbba-0e60-4d8e-9394-4830b11f559d">Emeral</card>
+    <card qty="4" id="24ec4b9d-1839-4a0f-9ebf-f5340bfc523a">Spiral Gate</card>
+    <card qty="4" id="b8d4fe22-66c2-46d3-b9c5-8a18da71967f">Qurian</card>
+    <card qty="2" id="7d87dcf1-468f-49cc-a5ee-dbdc533a96cc">Eureka Charger</card>
+    <card qty="2" id="ecd61b34-85ca-4a91-b993-7a8c9976a2b5">Corile</card>
+    <card qty="4" id="95ec6a25-f5aa-4682-9ec5-c2c2b06a4960">Emperor Marco</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="2" id="a82ec211-588c-4308-95be-798581045e31">Soulswap</card>
+    <card qty="2" id="cac388c9-dbda-4ca5-8b6e-48793eb15e9c">Splash Axe, the Aqua Savage</card>
+    <card qty="2" id="20ab3b7a-757d-463b-ba7e-b98540e5631f">Mephisto, Gaia's Coolclaw</card>
+    <card qty="4" id="ed7c70ff-90e7-4741-9429-d24822ac24a1">Auravine, Earth's Grasp</card>
+    <card qty="1" id="0dca6f6c-c426-4c88-b283-043527f04bb3">Fighter Dual Fang</card>
+    <card qty="3" id="bb339fe8-3e63-4657-8c5d-d2386c22ff38">Cryptic Totem</card>
+    <card qty="2" id="439b402f-25f0-4776-b60b-e864aa68e821">Terradragon Bagnaborne</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

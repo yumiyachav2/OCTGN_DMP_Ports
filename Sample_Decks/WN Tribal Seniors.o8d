@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="701500bb-7ade-4d3d-9938-8367fa3a71bd">Quixotic Hero Swine Snout</card>
+    <card qty="4" id="0d9e7ee6-0694-442d-8d9f-eadb52dea802">Aqua Belala</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="5b1916a1-7344-4f12-9128-b51bbf80060c">Cobalt Hulcus, Aqua Savage</card>
+    <card qty="4" id="ca6ab179-a919-4343-b92f-6e22ff3f0f72">Titan Fang, Great Hero</card>
+    <card qty="4" id="9ef14f60-eaaa-4601-9ead-d0c7c4444799">Aqua Hulcus</card>
+    <card qty="4" id="012892f0-2316-4fa6-83eb-3ff5cbf928e6">Bultratops, Leaf Wind Kind</card>
+    <card qty="4" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+    <card qty="3" id="cac388c9-dbda-4ca5-8b6e-48793eb15e9c">Splash Axe, the Aqua Savage</card>
+    <card qty="3" id="41e8d5c2-bfeb-48bb-ab9e-aaee79852c89">Crystal Paladin</card>
+    <card qty="2" id="ea4b7a28-d6de-45f1-ad12-df4ce3af2c54">Crystal Zweilancer</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="bb784fc6-fe21-4603-90d7-82c049908a74">
+  <section name="Main" shared="False">
+    <card qty="4" id="6dfdd98c-da99-4a5d-9595-51430026d97d">Faerie Life</card>
+    <card qty="4" id="015fd6bb-37a9-45cf-bb6b-a5497412b880">Bronze-Arm Tribe</card>
+    <card qty="4" id="fd1ae908-dcfc-4d98-943b-636ab72749c5">Evolution Totem</card>
+    <card qty="4" id="02110ddd-6fd5-4d62-a3a3-991483e35a4f">Victor Unigorn, Amazing Artiste</card>
+    <card qty="4" id="777d2f2d-a3a1-4b9e-beaf-021e86787343">Ida, the Great Enigma</card>
+    <card qty="2" id="ed7c70ff-90e7-4741-9429-d24822ac24a1">Auravine, Earth's Grasp</card>
+    <card qty="2" id="41e8d5c2-bfeb-48bb-ab9e-aaee79852c89">Crystal Paladin</card>
+    <card qty="4" id="5b1916a1-7344-4f12-9128-b51bbf80060c">Cobalt Hulcus, Aqua Savage</card>
+    <card qty="4" id="0d9e7ee6-0694-442d-8d9f-eadb52dea802">Aqua Belala</card>
+    <card qty="4" id="57eeb3c3-2561-4841-a381-2e50d17533d1">Aqua Hulcus</card>
+    <card qty="4" id="f5b9c2d5-970d-4578-a521-acccd856cfdf">Aqua Surfer</card>
+  </section>
+  <section name="Hyperspatial Deck" shared="False" />
+  <notes><![CDATA[]]></notes>
+</deck>
