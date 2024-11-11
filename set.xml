@@ -3632,8 +3632,8 @@
       <property name="Civilization" value="Nature"/>
       <property name="Cost" value="8"/>
       <property name="Type" value="Evolution Creature"/>
-      <property name="Race" value=""/>
-      <property name="Rules" value=""/>
+      <property name="Race" value="Earth Dragon"/>
+      <property name="Rules" value="Evolution - Dragon. When entering or attacking put opponent's random creature in mana."/>
       <property name="Power" value="12000"/>
       <property name="Rarity" value="Super Rare"/>
       <property name="Number" value="X1"/>
@@ -3644,8 +3644,8 @@
       <property name="Civilization" value="Nature"/>
       <property name="Cost" value="7"/>
       <property name="Type" value="Evolution Creature"/>
-      <property name="Race" value=""/>
-      <property name="Rules" value=""/>
+      <property name="Race" value="Beast Folk"/>
+      <property name="Rules" value="Evolution - Beast Folk. When entering, add 4 mana from deck, then return up to 2 creatures from mana to hand."/>
       <property name="Power" value="10000"/>
       <property name="Rarity" value="Super Rare"/>
       <property name="Number" value="X2"/>
@@ -3657,10 +3657,118 @@
       <property name="Cost" value="4"/>
       <property name="Type" value="Spell"/>
       <property name="Race" value=""/>
-      <property name="Rules" value=""/>
+      <property name="Rules" value="Add 2 tapped mana from deck."/>
       <property name="Power" value=""/>
       <property name="Rarity" value="Super Rare"/>
       <property name="Number" value="X3"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Wolponica, Guardian Horn" id="ca6ab181-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Nature/Light"/>
+      <property name="Cost" value="4"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Guardian/Horned Beast"/>
+      <property name="Rules" value="{BLOCKER}. Can't attack players. When entering, add 1 mana from deck."/>
+      <property name="Power" value="2500"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X4"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Dabullraizer, Ambush Captain" id="ca6ab182-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Fire"/>
+      <property name="Cost" value="4"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Dragonoid"/>
+      <property name="Rules" value="Can't attack if opponent has more creatures. {DOUBLE BREAKER}."/>
+      <property name="Power" value="6000"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X5"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Meteorcannon Dragon" id="ca6ab183-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Fire"/>
+      <property name="Cost" value="8"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Armored Dragon"/>
+      <property name="Rules" value="When discarded during opponent's turn, put in battle zone instead. {DOUBLE BREAKER}. When entering, destroy 1 of opponent's blockers."/>
+      <property name="Power" value="6000"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X6"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Streaming Tutor" id="ca6ab184-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Water"/>
+      <property name="Cost" value="5"/>
+      <property name="Type" value="Spell"/>
+      <property name="Race" value=""/>
+      <property name="Rules" value="Reveal 5 from top of deck. Nature and fire to hand, rest to grave."/>
+      <property name="Power" value=""/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X7"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Surf Spiral" id="ca6ab185-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Water"/>
+      <property name="Cost" value="6"/>
+      <property name="Type" value="Spell"/>
+      <property name="Race" value=""/>
+      <property name="Rules" value="{SHIELD TRIGGER}. Bounce 1 opponent's creature. You may draw 1."/>
+      <property name="Power" value=""/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X8"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Amshion, Protection Elemental" id="ca6ab186-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Light"/>
+      <property name="Cost" value="6"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Angel Command"/>
+      <property name="Rules" value="{BLOCKER}. All your other blockers get +4000 and can't be chosen."/>
+      <property name="Power" value="5500"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X9"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Voyager, Spectral Knight" id="ca6ab187-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Light"/>
+      <property name="Cost" value="4"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Rainbow Phantom"/>
+      <property name="Rules" value="Draw on entry. Angel commands cost 2 less."/>
+      <property name="Power" value="3000"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X10"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Merceus, Glory Elemental" id="ca6ab188-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Light"/>
+      <property name="Cost" value="6"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Angel Command"/>
+      <property name="Rules" value="{BLOCKER}. If opponent has more mana, add 2 mana from deck. {DOUBLE BREAKER}."/>
+      <property name="Power" value="6000"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X11"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Five Dimensional Spirit Platinum" id="ca6ab189-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Light"/>
+      <property name="Cost" value="7"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Angel Command"/>
+      <property name="Rules" value="{BLOCKER}. {DOUBLE BREAKER}. Gravity Zero - You have creatures of 5 civs in battle zone. If you have creatures of 5 civs in battle zone, you can't lose*."/>
+      <property name="Power" value="6000"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X12"/>
       <property name="Set" value="Promo and DMC Packs"/>
     </card>
   </cards>
