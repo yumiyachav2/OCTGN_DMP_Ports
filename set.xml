@@ -3771,5 +3771,29 @@
       <property name="Number" value="X12"/>
       <property name="Set" value="Promo and DMC Packs"/>
     </card>
+    <card name="Agapitos, Alignment Elemental" id="ca6ab190-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Light"/>
+      <property name="Cost" value="6"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Angel Command"/>
+      <property name="Rules" value="{BLOCKER}. {DOUBLE BREAKER}. When entering, search up light creature <=3 cost. When your light creature <=3 cost enters, tap smallest opponent's creature."/>
+      <property name="Power" value="6000"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X13"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Super Machine Dragon Bolgress Bazz" id="ca6ab191-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Fire/Nature"/>
+      <property name="Cost" value="7"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Armored Dragon/Earth Dragon"/>
+      <property name="Rules" value="{DOUBLE BREAKER}. When entering, return any number of dragons or phoenixes from mana to hand, then add that much man from deck."/>
+      <property name="Power" value="8000"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X14"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
   </cards>
 </set>
