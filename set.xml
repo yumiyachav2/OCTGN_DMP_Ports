@@ -3795,5 +3795,41 @@
       <property name="Number" value="X14"/>
       <property name="Set" value="Promo and DMC Packs"/>
     </card>
+    <card name="Grenbelk, Lord of Devils" id="ca6ab192-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Darkness"/>
+      <property name="Cost" value="5"/>
+      <property name="Type" value="Evolution Creature"/>
+      <property name="Race" value="Grand Devil"/>
+      <property name="Rules" value="Evolution - Grand Devil. {DOUBLE BREAKER}. When attacking, mill 3 and you may return a creature with cost \le 3 to battle zone."/>
+      <property name="Power" value="7000"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X15"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Neonglide, Aqua Poseidon" id="ca6ab193-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Water"/>
+      <property name="Cost" value="6"/>
+      <property name="Type" value="Creature"/>
+      <property name="Race" value="Liquid People/Poseidia Dragon"/>
+      <property name="Rules" value="When entering, return up to 2 untapped opponent's creatures to hand."/>
+      <property name="Power" value="4000"/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X16"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
+    <card name="Explosion of Ruby and Jade" id="ca6ab194-a919-4343-b92f-6e22ff3f0f72">
+      <property name="Format" value="OCG"/>
+      <property name="Civilization" value="Fire/Nature"/>
+      <property name="Cost" value="3"/>
+      <property name="Type" value="Spell"/>
+      <property name="Race" value=""/>
+      <property name="Rules" value="Destroy one opponent's creature with power \le 6000. Return creature from mana to hand."/>
+      <property name="Power" value=""/>
+      <property name="Rarity" value="Super Rare"/>
+      <property name="Number" value="X17"/>
+      <property name="Set" value="Promo and DMC Packs"/>
+    </card>
   </cards>
 </set>
